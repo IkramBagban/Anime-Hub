@@ -1,0 +1,55 @@
+import axios from "axios";
+import { useEffect, useState } from "react";
+// const API = 'http://localhost:3000'
+const API = 'http://192.168.10.35:3000'
+
+
+const useFetch = (endpoint) => {
+  const [dataState, setDataState] = useState({
+    data: null,
+    isLoading: true,
+    isError: false,
+    error: null,
+  });
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        // const response = await axios.get('http://localhost:3000/data');
+        const response = await axios.get(API + endpoint);
+        
+        // console.log("response")
+        // console.log(response)
+        if (response.status === 200) {
+          setDataState({
+            data: response,
+            isLoading: false,
+            isError: false,
+            error: null,
+          });
+        } else {
+          setDataState({
+            data: response,
+            isLoading: false,
+            isError: true,
+            error: "Something went wrong",
+          });
+        }
+      } catch (error) {
+        console.log(error);
+        setDataState({
+          data: null,
+          isLoading: false,
+          isError: true,
+          error: error,
+        });
+      }
+    };
+
+    fetchData();
+  }, [endpoint]);
+
+  return dataState;
+};
+
+export default useFetch;

@@ -1,0 +1,7118 @@
+{
+  "countries": [
+    {
+      "code": "AD",
+      "name": "Andorra",
+      "phone": "376",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "AE",
+      "name": "United Arab Emirates",
+      "phone": "971",
+      "currency": "AED",
+      "states": []
+    },
+    {
+      "code": "AF",
+      "name": "Afghanistan",
+      "phone": "93",
+      "currency": "AFN",
+      "states": []
+    },
+    {
+      "code": "AG",
+      "name": "Antigua and Barbuda",
+      "phone": "1268",
+      "currency": "XCD",
+      "states": []
+    },
+    {
+      "code": "AI",
+      "name": "Anguilla",
+      "phone": "1264",
+      "currency": "XCD",
+      "states": []
+    },
+    {
+      "code": "AL",
+      "name": "Albania",
+      "phone": "355",
+      "currency": "ALL",
+      "states": []
+    },
+    {
+      "code": "AM",
+      "name": "Armenia",
+      "phone": "374",
+      "currency": "AMD",
+      "states": []
+    },
+    {
+      "code": "AO",
+      "name": "Angola",
+      "phone": "244",
+      "currency": "AOA",
+      "states": []
+    },
+    {
+      "code": "AQ",
+      "name": "Antarctica",
+      "phone": "672",
+      "currency": null,
+      "states": []
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "phone": "54",
+      "currency": "ARS",
+      "states": [
+        {
+          "code": null,
+          "name": "Ciudad Autónoma de Buenos Aires"
+        },
+        {
+          "code": null,
+          "name": "Buenos Aires"
+        },
+        {
+          "code": null,
+          "name": "Catamarca"
+        },
+        {
+          "code": null,
+          "name": "Chaco"
+        },
+        {
+          "code": null,
+          "name": "Chubut"
+        },
+        {
+          "code": null,
+          "name": "Córdoba"
+        },
+        {
+          "code": null,
+          "name": "Corrientes"
+        },
+        {
+          "code": null,
+          "name": "Entre Ríos"
+        },
+        {
+          "code": null,
+          "name": "Formosa"
+        },
+        {
+          "code": null,
+          "name": "Jujuy"
+        },
+        {
+          "code": null,
+          "name": "La Pampa"
+        },
+        {
+          "code": null,
+          "name": "La Rioja"
+        },
+        {
+          "code": null,
+          "name": "Mendoza"
+        },
+        {
+          "code": null,
+          "name": "Misiones"
+        },
+        {
+          "code": null,
+          "name": "Neuquén"
+        },
+        {
+          "code": null,
+          "name": "Río Negro"
+        },
+        {
+          "code": null,
+          "name": "Salta"
+        },
+        {
+          "code": null,
+          "name": "San Juan"
+        },
+        {
+          "code": null,
+          "name": "San Luis"
+        },
+        {
+          "code": null,
+          "name": "Santa Cruz"
+        },
+        {
+          "code": null,
+          "name": "Santa Fe"
+        },
+        {
+          "code": null,
+          "name": "Santiago del Estero"
+        },
+        {
+          "code": null,
+          "name": "Tierra del Fuego, Antártida e Islas del Atlántico Sur"
+        },
+        {
+          "code": null,
+          "name": "Tucumán"
+        }
+      ]
+    },
+    {
+      "code": "AS",
+      "name": "American Samoa",
+      "phone": "1684",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "phone": "43",
+      "currency": "EUR",
+      "states": [
+        {
+          "code": "B",
+          "name": "Burgenland"
+        },
+        {
+          "code": "K",
+          "name": "Kärnten"
+        },
+        {
+          "code": "NÖ",
+          "name": "Niederösterreich"
+        },
+        {
+          "code": "OÖ",
+          "name": "Oberösterreich"
+        },
+        {
+          "code": "S",
+          "name": "Salzburg"
+        },
+        {
+          "code": "ST",
+          "name": "Steiermark"
+        },
+        {
+          "code": "T",
+          "name": "Tirol"
+        },
+        {
+          "code": "V",
+          "name": "Vorarlberg"
+        },
+        {
+          "code": "W",
+          "name": "Wien"
+        }
+      ]
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "phone": "61",
+      "currency": "AUD",
+      "states": [
+        {
+          "code": null,
+          "name": "Ashmore and Cartier Islands"
+        },
+        {
+          "code": null,
+          "name": "Australian Antarctic Territory"
+        },
+        {
+          "code": "ACT",
+          "name": "Australian Capital Territory"
+        },
+        {
+          "code": "CX",
+          "name": "Christmas Island"
+        },
+        {
+          "code": "CC",
+          "name": "Cocos Islands"
+        },
+        {
+          "code": null,
+          "name": "Coral Sea Islands"
+        },
+        {
+          "code": "HM",
+          "name": "Heard Island and McDonald Islands"
+        },
+        {
+          "code": "JBT",
+          "name": "Jervis Bay Territory"
+        },
+        {
+          "code": "NSW",
+          "name": "New South Wales"
+        },
+        {
+          "code": "NF",
+          "name": "Norfolk Island"
+        },
+        {
+          "code": "NT",
+          "name": "Northern Territory"
+        },
+        {
+          "code": "QLD",
+          "name": "Queensland"
+        },
+        {
+          "code": "SA",
+          "name": "South Australia"
+        },
+        {
+          "code": "TAS",
+          "name": "Tasmania"
+        },
+        {
+          "code": "VIC",
+          "name": "Victoria"
+        },
+        {
+          "code": "WA",
+          "name": "Western Australia"
+        }
+      ]
+    },
+    {
+      "code": "AW",
+      "name": "Aruba",
+      "phone": "297",
+      "currency": "AWG",
+      "states": []
+    },
+    {
+      "code": "AX",
+      "name": "Åland",
+      "phone": "358",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "AZ",
+      "name": "Azerbaijan",
+      "phone": "994",
+      "currency": "AZN",
+      "states": []
+    },
+    {
+      "code": "BA",
+      "name": "Bosnia and Herzegovina",
+      "phone": "387",
+      "currency": "BAM",
+      "states": []
+    },
+    {
+      "code": "BB",
+      "name": "Barbados",
+      "phone": "1246",
+      "currency": "BBD",
+      "states": []
+    },
+    {
+      "code": "BD",
+      "name": "Bangladesh",
+      "phone": "880",
+      "currency": "BDT",
+      "states": [
+        {
+          "code": null,
+          "name": "বরগুনা"
+        },
+        {
+          "code": null,
+          "name": "বরিশাল"
+        },
+        {
+          "code": null,
+          "name": "ভোলা"
+        },
+        {
+          "code": null,
+          "name": "ঝালকাঠি"
+        },
+        {
+          "code": null,
+          "name": "পটুয়াখালী"
+        },
+        {
+          "code": null,
+          "name": "পিরোজপুর"
+        },
+        {
+          "code": null,
+          "name": "বান্দরবান"
+        },
+        {
+          "code": null,
+          "name": "ব্রাহ্মণবাড়ীয়া"
+        },
+        {
+          "code": null,
+          "name": "চাঁদপুর"
+        },
+        {
+          "code": null,
+          "name": "চট্টগ্রাম"
+        },
+        {
+          "code": null,
+          "name": "কুমিল্লা"
+        },
+        {
+          "code": null,
+          "name": "কক্সবাজার"
+        },
+        {
+          "code": null,
+          "name": "ফেনী"
+        },
+        {
+          "code": null,
+          "name": "খাগড়াছড়ি"
+        },
+        {
+          "code": null,
+          "name": "লক্ষীপুর"
+        },
+        {
+          "code": null,
+          "name": "নোয়াখালী"
+        },
+        {
+          "code": null,
+          "name": "রাঙ্গামাটি"
+        },
+        {
+          "code": null,
+          "name": "ঢাকা"
+        },
+        {
+          "code": null,
+          "name": "ফরিদপুর"
+        },
+        {
+          "code": null,
+          "name": "গাজীপুর"
+        },
+        {
+          "code": null,
+          "name": "গোপালগঞ্জ"
+        },
+        {
+          "code": null,
+          "name": "জামালপুর"
+        },
+        {
+          "code": null,
+          "name": "কিশোরগঞ্জ"
+        },
+        {
+          "code": null,
+          "name": "মাদারীপুর"
+        },
+        {
+          "code": null,
+          "name": "মানিকগঞ্জ"
+        },
+        {
+          "code": null,
+          "name": "মুন্সীগঞ্জ"
+        },
+        {
+          "code": null,
+          "name": "ময়মনসিংহ"
+        },
+        {
+          "code": null,
+          "name": "নারায়ণগঞ্জ"
+        },
+        {
+          "code": null,
+          "name": "নরসিংদী"
+        },
+        {
+          "code": null,
+          "name": "নেত্রকোনা"
+        },
+        {
+          "code": null,
+          "name": "রাজবাড়ী"
+        },
+        {
+          "code": null,
+          "name": "শরীয়তপুর"
+        },
+        {
+          "code": null,
+          "name": "শেরপুর"
+        },
+        {
+          "code": null,
+          "name": "টাঙ্গাইল"
+        },
+        {
+          "code": null,
+          "name": "বাগেরহাট"
+        },
+        {
+          "code": null,
+          "name": "চুয়াডাঙ্গা"
+        },
+        {
+          "code": null,
+          "name": "যশোর"
+        },
+        {
+          "code": null,
+          "name": "ঝিনাইদহ"
+        },
+        {
+          "code": null,
+          "name": "খুলনা"
+        },
+        {
+          "code": null,
+          "name": "কুষ্টিয়া"
+        },
+        {
+          "code": null,
+          "name": "মাগুরা"
+        },
+        {
+          "code": null,
+          "name": "মেহেরপুর"
+        },
+        {
+          "code": null,
+          "name": "নড়াইল"
+        },
+        {
+          "code": null,
+          "name": "সাতক্ষিরা"
+        },
+        {
+          "code": null,
+          "name": "বগুড়া"
+        },
+        {
+          "code": null,
+          "name": "জয়পুরহাট"
+        },
+        {
+          "code": null,
+          "name": "নওগাঁ"
+        },
+        {
+          "code": null,
+          "name": "নাটোর"
+        },
+        {
+          "code": null,
+          "name": "নওয়াবগঞ্জ"
+        },
+        {
+          "code": null,
+          "name": "পাবনা"
+        },
+        {
+          "code": null,
+          "name": "রাজশাহী"
+        },
+        {
+          "code": null,
+          "name": "সিরাজগঞ্জ"
+        },
+        {
+          "code": null,
+          "name": "দিনাজপুর"
+        },
+        {
+          "code": null,
+          "name": "গাইবান্ধা"
+        },
+        {
+          "code": null,
+          "name": "কুড়িগ্রাম"
+        },
+        {
+          "code": null,
+          "name": "লালমনিরহাট"
+        },
+        {
+          "code": null,
+          "name": "নীলফামারী"
+        },
+        {
+          "code": null,
+          "name": "পঞ্চগড়"
+        },
+        {
+          "code": null,
+          "name": "রংপুর"
+        },
+        {
+          "code": null,
+          "name": "ঠাকুরগাঁ"
+        },
+        {
+          "code": null,
+          "name": "হবিগঞ্জ"
+        },
+        {
+          "code": null,
+          "name": "মৌলভীবাজার"
+        },
+        {
+          "code": null,
+          "name": "সুনামগঞ্জ"
+        },
+        {
+          "code": null,
+          "name": "সিলেট"
+        }
+      ]
+    },
+    {
+      "code": "BE",
+      "name": "Belgium",
+      "phone": "32",
+      "currency": "EUR",
+      "states": [
+        {
+          "code": "ANT",
+          "name": "Antwerpen"
+        },
+        {
+          "code": "HAI",
+          "name": "Henegouwen"
+        },
+        {
+          "code": "LIE",
+          "name": "Luik"
+        },
+        {
+          "code": "LIM",
+          "name": "Limburg"
+        },
+        {
+          "code": "LUX",
+          "name": "Luxemburg"
+        },
+        {
+          "code": "NAM",
+          "name": "Namen"
+        },
+        {
+          "code": "OVL",
+          "name": "Oost-Vlaanderen"
+        },
+        {
+          "code": "VBR",
+          "name": "Vlaams-Brabant"
+        },
+        {
+          "code": "WBR",
+          "name": "Waals-Brabant"
+        },
+        {
+          "code": "WVL",
+          "name": "West-Vlaanderen"
+        }
+      ]
+    },
+    {
+      "code": "BF",
+      "name": "Burkina Faso",
+      "phone": "226",
+      "currency": "XOF",
+      "states": []
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "phone": "359",
+      "currency": "BGN",
+      "states": []
+    },
+    {
+      "code": "BH",
+      "name": "Bahrain",
+      "phone": "973",
+      "currency": "BHD",
+      "states": []
+    },
+    {
+      "code": "BI",
+      "name": "Burundi",
+      "phone": "257",
+      "currency": "BIF",
+      "states": []
+    },
+    {
+      "code": "BJ",
+      "name": "Benin",
+      "phone": "229",
+      "currency": "XOF",
+      "states": []
+    },
+    {
+      "code": "BL",
+      "name": "Saint Barthélemy",
+      "phone": "590",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "BM",
+      "name": "Bermuda",
+      "phone": "1441",
+      "currency": "BMD",
+      "states": []
+    },
+    {
+      "code": "BN",
+      "name": "Brunei",
+      "phone": "673",
+      "currency": "BND",
+      "states": []
+    },
+    {
+      "code": "BO",
+      "name": "Bolivia",
+      "phone": "591",
+      "currency": "BOB,BOV",
+      "states": [
+        {
+          "code": null,
+          "name": "Cercado"
+        },
+        {
+          "code": null,
+          "name": "Iténez"
+        },
+        {
+          "code": null,
+          "name": "José Ballivián"
+        },
+        {
+          "code": null,
+          "name": "Mamoré"
+        },
+        {
+          "code": null,
+          "name": "Marbán"
+        },
+        {
+          "code": null,
+          "name": "Moxos"
+        },
+        {
+          "code": null,
+          "name": "Vaca Díez"
+        },
+        {
+          "code": null,
+          "name": "Yacuma"
+        },
+        {
+          "code": null,
+          "name": "Azurduy"
+        },
+        {
+          "code": null,
+          "name": "Belisario Boeto"
+        },
+        {
+          "code": null,
+          "name": "Hernando Siles"
+        },
+        {
+          "code": null,
+          "name": "Jaime Zudáñez"
+        },
+        {
+          "code": null,
+          "name": "Luis Calvo"
+        },
+        {
+          "code": null,
+          "name": "Nor Cinti"
+        },
+        {
+          "code": null,
+          "name": "Oropeza"
+        },
+        {
+          "code": null,
+          "name": "Sud Cinti"
+        },
+        {
+          "code": null,
+          "name": "Tomina"
+        },
+        {
+          "code": null,
+          "name": "Yamparáez"
+        },
+        {
+          "code": null,
+          "name": "Arani"
+        },
+        {
+          "code": null,
+          "name": "Arque"
+        },
+        {
+          "code": null,
+          "name": "Ayopaya"
+        },
+        {
+          "code": null,
+          "name": "Capinota"
+        },
+        {
+          "code": null,
+          "name": "Carrasco"
+        },
+        {
+          "code": null,
+          "name": "Cercado"
+        },
+        {
+          "code": null,
+          "name": "Chapare"
+        },
+        {
+          "code": null,
+          "name": "Esteban Arce"
+        },
+        {
+          "code": null,
+          "name": "Germán Jordán"
+        },
+        {
+          "code": null,
+          "name": "Mizque"
+        },
+        {
+          "code": null,
+          "name": "Campero"
+        },
+        {
+          "code": null,
+          "name": "Punata"
+        },
+        {
+          "code": null,
+          "name": "Quillacollo"
+        },
+        {
+          "code": null,
+          "name": "Bolívar"
+        },
+        {
+          "code": null,
+          "name": "Tapacarí"
+        },
+        {
+          "code": null,
+          "name": "Tiraque"
+        },
+        {
+          "code": null,
+          "name": "Abel Iturralde"
+        },
+        {
+          "code": null,
+          "name": "Aroma"
+        },
+        {
+          "code": null,
+          "name": "Bautista Saavedra"
+        },
+        {
+          "code": null,
+          "name": "Caranavi"
+        },
+        {
+          "code": null,
+          "name": "Eliodoro Camacho"
+        },
+        {
+          "code": null,
+          "name": "Franz Tamayo"
+        },
+        {
+          "code": null,
+          "name": "Gualberto Villarroel"
+        },
+        {
+          "code": null,
+          "name": "Ingavi"
+        },
+        {
+          "code": null,
+          "name": "Inquisivi"
+        },
+        {
+          "code": null,
+          "name": "José Manuel Pando"
+        },
+        {
+          "code": null,
+          "name": "Larecaja"
+        },
+        {
+          "code": null,
+          "name": "Loayza"
+        },
+        {
+          "code": null,
+          "name": "Los Andes"
+        },
+        {
+          "code": null,
+          "name": "Manco Kapac"
+        },
+        {
+          "code": null,
+          "name": "Muñecas"
+        },
+        {
+          "code": null,
+          "name": "Nor Yungas"
+        },
+        {
+          "code": null,
+          "name": "Omasuyos"
+        },
+        {
+          "code": null,
+          "name": "Pacajes"
+        },
+        {
+          "code": null,
+          "name": "Murillo"
+        },
+        {
+          "code": null,
+          "name": "Sud Yungas"
+        },
+        {
+          "code": null,
+          "name": "Atahuallpa"
+        },
+        {
+          "code": null,
+          "name": "Carangas"
+        },
+        {
+          "code": null,
+          "name": "Cercado"
+        },
+        {
+          "code": null,
+          "name": "Eduardo Avaroa"
+        },
+        {
+          "code": null,
+          "name": "Ladislao Cabrera"
+        },
+        {
+          "code": null,
+          "name": "Litoral"
+        },
+        {
+          "code": null,
+          "name": "Nor Carangas"
+        },
+        {
+          "code": null,
+          "name": "Pantaléon Dalence"
+        },
+        {
+          "code": null,
+          "name": "Poopó"
+        },
+        {
+          "code": null,
+          "name": "Puerto de Mejillones"
+        },
+        {
+          "code": null,
+          "name": "Sajama"
+        },
+        {
+          "code": null,
+          "name": "San Pedro de Totora"
+        },
+        {
+          "code": null,
+          "name": "Saucarí"
+        },
+        {
+          "code": null,
+          "name": "Sebastián Pagador"
+        },
+        {
+          "code": null,
+          "name": "Sud Carangas"
+        },
+        {
+          "code": null,
+          "name": "Tomas Barrón"
+        },
+        {
+          "code": null,
+          "name": "Abuná"
+        },
+        {
+          "code": null,
+          "name": "Federico Román"
+        },
+        {
+          "code": null,
+          "name": "Madre de Dios"
+        },
+        {
+          "code": null,
+          "name": "Manuripi"
+        },
+        {
+          "code": null,
+          "name": "Nicolás Suárez"
+        },
+        {
+          "code": null,
+          "name": "Alonso de Ibáñez"
+        },
+        {
+          "code": null,
+          "name": "Antonio Quijarro"
+        },
+        {
+          "code": null,
+          "name": "Bernardino Bilbao"
+        },
+        {
+          "code": null,
+          "name": "Charcas"
+        },
+        {
+          "code": null,
+          "name": "Chayanta"
+        },
+        {
+          "code": null,
+          "name": "Cornelio Saavedra"
+        },
+        {
+          "code": null,
+          "name": "Daniel Campos"
+        },
+        {
+          "code": null,
+          "name": "Enrique Baldivieso"
+        },
+        {
+          "code": null,
+          "name": "José María Linares"
+        },
+        {
+          "code": null,
+          "name": "Modesto Omiste"
+        },
+        {
+          "code": null,
+          "name": "Nor Chichas"
+        },
+        {
+          "code": null,
+          "name": "Nor Lípez"
+        },
+        {
+          "code": null,
+          "name": "Rafael Bustillo"
+        },
+        {
+          "code": null,
+          "name": "Sur Chichas"
+        },
+        {
+          "code": null,
+          "name": "Sur Lípez"
+        },
+        {
+          "code": null,
+          "name": "Tomás Frías"
+        },
+        {
+          "code": null,
+          "name": "Andrés Ibáñez"
+        },
+        {
+          "code": null,
+          "name": "Ángel Sandoval"
+        },
+        {
+          "code": null,
+          "name": "Chiquitos"
+        },
+        {
+          "code": null,
+          "name": "Cordillera"
+        },
+        {
+          "code": null,
+          "name": "Florida"
+        },
+        {
+          "code": null,
+          "name": "Germán Busch"
+        },
+        {
+          "code": null,
+          "name": "Guarayos"
+        },
+        {
+          "code": null,
+          "name": "Ichilo"
+        },
+        {
+          "code": null,
+          "name": "Ignacio Warnes"
+        },
+        {
+          "code": null,
+          "name": "José Miguel de Velasco"
+        },
+        {
+          "code": null,
+          "name": "Manuel María Caballero"
+        },
+        {
+          "code": null,
+          "name": "Ñuflo de Chávez"
+        },
+        {
+          "code": null,
+          "name": "Obispo Santistevan"
+        },
+        {
+          "code": null,
+          "name": "Sara"
+        },
+        {
+          "code": null,
+          "name": "Vallegrande"
+        },
+        {
+          "code": null,
+          "name": "Aniceto Arce"
+        },
+        {
+          "code": null,
+          "name": "Burnet O'Connor"
+        },
+        {
+          "code": null,
+          "name": "Cercado"
+        },
+        {
+          "code": null,
+          "name": "Eustaquio Méndez"
+        },
+        {
+          "code": null,
+          "name": "Gran Chaco"
+        },
+        {
+          "code": null,
+          "name": "José María Avilés"
+        }
+      ]
+    },
+    {
+      "code": "BQ",
+      "name": "Bonaire",
+      "phone": "5997",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "phone": "55",
+      "currency": "BRL",
+      "states": [
+        {
+          "code": "AC",
+          "name": "Acre"
+        },
+        {
+          "code": "AL",
+          "name": "Alagoas"
+        },
+        {
+          "code": "AP",
+          "name": "Amapá"
+        },
+        {
+          "code": "AM",
+          "name": "Amazonas"
+        },
+        {
+          "code": "BA",
+          "name": "Bahia"
+        },
+        {
+          "code": "CE",
+          "name": "Ceará"
+        },
+        {
+          "code": "DF",
+          "name": "Distrito Federal"
+        },
+        {
+          "code": "ES",
+          "name": "Espírito Santo"
+        },
+        {
+          "code": "GO",
+          "name": "Goiás"
+        },
+        {
+          "code": "MA",
+          "name": "Maranhão"
+        },
+        {
+          "code": "MT",
+          "name": "Mato Grosso"
+        },
+        {
+          "code": "MS",
+          "name": "Mato Grosso do Sul"
+        },
+        {
+          "code": "MG",
+          "name": "Minas Gerais"
+        },
+        {
+          "code": "PA",
+          "name": "Pará"
+        },
+        {
+          "code": "PB",
+          "name": "Paraíba"
+        },
+        {
+          "code": "PR",
+          "name": "Paraná"
+        },
+        {
+          "code": "PE",
+          "name": "Pernambuco"
+        },
+        {
+          "code": "PI",
+          "name": "Piauí"
+        },
+        {
+          "code": "RJ",
+          "name": "Rio de Janeiro"
+        },
+        {
+          "code": "RN",
+          "name": "Rio Grande do Norte"
+        },
+        {
+          "code": "RS",
+          "name": "Rio Grande do Sul"
+        },
+        {
+          "code": "RO",
+          "name": "Rondônia"
+        },
+        {
+          "code": "RR",
+          "name": "Roraima"
+        },
+        {
+          "code": "SC",
+          "name": "Santa Catarina"
+        },
+        {
+          "code": "SP",
+          "name": "São Paulo"
+        },
+        {
+          "code": "SE",
+          "name": "Sergipe"
+        },
+        {
+          "code": "TO",
+          "name": "Tocantins"
+        }
+      ]
+    },
+    {
+      "code": "BS",
+      "name": "Bahamas",
+      "phone": "1242",
+      "currency": "BSD",
+      "states": []
+    },
+    {
+      "code": "BT",
+      "name": "Bhutan",
+      "phone": "975",
+      "currency": "BTN,INR",
+      "states": []
+    },
+    {
+      "code": "BV",
+      "name": "Bouvet Island",
+      "phone": "47",
+      "currency": "NOK",
+      "states": []
+    },
+    {
+      "code": "BW",
+      "name": "Botswana",
+      "phone": "267",
+      "currency": "BWP",
+      "states": []
+    },
+    {
+      "code": "BY",
+      "name": "Belarus",
+      "phone": "375",
+      "currency": "BYN",
+      "states": []
+    },
+    {
+      "code": "BZ",
+      "name": "Belize",
+      "phone": "501",
+      "currency": "BZD",
+      "states": []
+    },
+    {
+      "code": "CA",
+      "name": "Canada",
+      "phone": "1",
+      "currency": "CAD",
+      "states": [
+        {
+          "code": "AB",
+          "name": "Alberta"
+        },
+        {
+          "code": "BC",
+          "name": "British Columbia"
+        },
+        {
+          "code": "MB",
+          "name": "Manitoba"
+        },
+        {
+          "code": "NB",
+          "name": "New Brunswick"
+        },
+        {
+          "code": "NL",
+          "name": "Newfoundland and Labrador"
+        },
+        {
+          "code": "NS",
+          "name": "Nova Scotia"
+        },
+        {
+          "code": "NU",
+          "name": "Nunavut"
+        },
+        {
+          "code": "NT",
+          "name": "Northwest Territories"
+        },
+        {
+          "code": "ON",
+          "name": "Ontario"
+        },
+        {
+          "code": "PE",
+          "name": "Prince Edward Island"
+        },
+        {
+          "code": "QC",
+          "name": "Quebec"
+        },
+        {
+          "code": "SK",
+          "name": "Saskatchewan"
+        },
+        {
+          "code": "YT",
+          "name": "Yukon"
+        }
+      ]
+    },
+    {
+      "code": "CC",
+      "name": "Cocos [Keeling] Islands",
+      "phone": "61",
+      "currency": "AUD",
+      "states": []
+    },
+    {
+      "code": "CD",
+      "name": "Democratic Republic of the Congo",
+      "phone": "243",
+      "currency": "CDF",
+      "states": []
+    },
+    {
+      "code": "CF",
+      "name": "Central African Republic",
+      "phone": "236",
+      "currency": "XAF",
+      "states": []
+    },
+    {
+      "code": "CG",
+      "name": "Republic of the Congo",
+      "phone": "242",
+      "currency": "XAF",
+      "states": []
+    },
+    {
+      "code": "CH",
+      "name": "Switzerland",
+      "phone": "41",
+      "currency": "CHE,CHF,CHW",
+      "states": []
+    },
+    {
+      "code": "CI",
+      "name": "Ivory Coast",
+      "phone": "225",
+      "currency": "XOF",
+      "states": []
+    },
+    {
+      "code": "CK",
+      "name": "Cook Islands",
+      "phone": "682",
+      "currency": "NZD",
+      "states": []
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "phone": "56",
+      "currency": "CLF,CLP",
+      "states": [
+        {
+          "code": null,
+          "name": "Arica"
+        },
+        {
+          "code": null,
+          "name": "Parinacota"
+        },
+        {
+          "code": null,
+          "name": "Iquique"
+        },
+        {
+          "code": null,
+          "name": "Tamarugal"
+        },
+        {
+          "code": null,
+          "name": "Antofagasta"
+        },
+        {
+          "code": null,
+          "name": "El Loa"
+        },
+        {
+          "code": null,
+          "name": "Tocopilla"
+        },
+        {
+          "code": null,
+          "name": "Copiapó"
+        },
+        {
+          "code": null,
+          "name": "Huasco"
+        },
+        {
+          "code": null,
+          "name": "Chañaral"
+        },
+        {
+          "code": null,
+          "name": "Elqui"
+        },
+        {
+          "code": null,
+          "name": "Limarí"
+        },
+        {
+          "code": null,
+          "name": "Choapa"
+        },
+        {
+          "code": null,
+          "name": "Isla de Pascua"
+        },
+        {
+          "code": null,
+          "name": "Los Andes"
+        },
+        {
+          "code": null,
+          "name": "Marga Marga"
+        },
+        {
+          "code": null,
+          "name": "Petorca"
+        },
+        {
+          "code": null,
+          "name": "Quillota"
+        },
+        {
+          "code": null,
+          "name": "San Antonio"
+        },
+        {
+          "code": null,
+          "name": "San Felipe de Aconcagua"
+        },
+        {
+          "code": null,
+          "name": "Valparaíso"
+        },
+        {
+          "code": null,
+          "name": "Cachapoal"
+        },
+        {
+          "code": null,
+          "name": "Colchagua"
+        },
+        {
+          "code": null,
+          "name": "Cardenal Caro"
+        },
+        {
+          "code": null,
+          "name": "Talca"
+        },
+        {
+          "code": null,
+          "name": "Linares"
+        },
+        {
+          "code": null,
+          "name": "Curicó"
+        },
+        {
+          "code": null,
+          "name": "Cauquenes"
+        },
+        {
+          "code": null,
+          "name": "Concepción"
+        },
+        {
+          "code": null,
+          "name": "Ñuble"
+        },
+        {
+          "code": null,
+          "name": "Biobío"
+        },
+        {
+          "code": null,
+          "name": "Arauco"
+        },
+        {
+          "code": null,
+          "name": "Cautin"
+        },
+        {
+          "code": null,
+          "name": "Malleco"
+        },
+        {
+          "code": null,
+          "name": "Valdivia"
+        },
+        {
+          "code": null,
+          "name": "Ranco"
+        },
+        {
+          "code": null,
+          "name": "Llanquihue"
+        },
+        {
+          "code": null,
+          "name": "Osorno"
+        },
+        {
+          "code": null,
+          "name": "Chiloe"
+        },
+        {
+          "code": null,
+          "name": "Palena"
+        },
+        {
+          "code": null,
+          "name": "Coihaique"
+        },
+        {
+          "code": null,
+          "name": "Aisén"
+        },
+        {
+          "code": null,
+          "name": "General Carrera"
+        },
+        {
+          "code": null,
+          "name": "Capitan Prat"
+        },
+        {
+          "code": null,
+          "name": "Magallanes"
+        },
+        {
+          "code": null,
+          "name": "Ultima Esperanza"
+        },
+        {
+          "code": null,
+          "name": "Tierra del Fuego"
+        },
+        {
+          "code": null,
+          "name": "Antártica Chilena"
+        },
+        {
+          "code": null,
+          "name": "Santiago"
+        },
+        {
+          "code": null,
+          "name": "Cordillera"
+        },
+        {
+          "code": null,
+          "name": "Maipo"
+        },
+        {
+          "code": null,
+          "name": "Talagante"
+        },
+        {
+          "code": null,
+          "name": "Melipilla"
+        },
+        {
+          "code": null,
+          "name": "Chacabuco"
+        }
+      ]
+    },
+    {
+      "code": "CM",
+      "name": "Cameroon",
+      "phone": "237",
+      "currency": "XAF",
+      "states": []
+    },
+    {
+      "code": "CN",
+      "name": "China",
+      "phone": "86",
+      "currency": "CNY",
+      "states": [
+        {
+          "code": "渝",
+          "name": "重庆"
+        },
+        {
+          "code": "黑",
+          "name": "黑龙江"
+        },
+        {
+          "code": "吉",
+          "name": "吉林"
+        },
+        {
+          "code": "琼",
+          "name": "海南"
+        },
+        {
+          "code": "京",
+          "name": "北京"
+        },
+        {
+          "code": "辽",
+          "name": "辽宁"
+        },
+        {
+          "code": "蒙",
+          "name": "内蒙古"
+        },
+        {
+          "code": "藏",
+          "name": "西藏"
+        },
+        {
+          "code": "青",
+          "name": "青海"
+        },
+        {
+          "code": "宁",
+          "name": "宁夏"
+        },
+        {
+          "code": "新",
+          "name": "新疆"
+        },
+        {
+          "code": "甘",
+          "name": "甘肃"
+        },
+        {
+          "code": "冀",
+          "name": "河北"
+        },
+        {
+          "code": "豫",
+          "name": "河南"
+        },
+        {
+          "code": "鄂",
+          "name": "湖北"
+        },
+        {
+          "code": "湘",
+          "name": "湖南"
+        },
+        {
+          "code": "鲁",
+          "name": "山东"
+        },
+        {
+          "code": "苏",
+          "name": "江苏"
+        },
+        {
+          "code": "皖",
+          "name": "安徽"
+        },
+        {
+          "code": "晋",
+          "name": "山西"
+        },
+        {
+          "code": "陕",
+          "name": "陕西"
+        },
+        {
+          "code": "川",
+          "name": "四川"
+        },
+        {
+          "code": "滇",
+          "name": "云南"
+        },
+        {
+          "code": "黔",
+          "name": "贵州"
+        },
+        {
+          "code": "浙",
+          "name": "浙江"
+        },
+        {
+          "code": "闽",
+          "name": "福建"
+        },
+        {
+          "code": "桂",
+          "name": "广西"
+        },
+        {
+          "code": "沪",
+          "name": "上海"
+        },
+        {
+          "code": "津",
+          "name": "天津"
+        },
+        {
+          "code": "港",
+          "name": "香港"
+        },
+        {
+          "code": "澳",
+          "name": "澳门"
+        },
+        {
+          "code": "台",
+          "name": "台湾"
+        },
+        {
+          "code": "赣",
+          "name": "江西"
+        },
+        {
+          "code": "粤",
+          "name": "广东"
+        }
+      ]
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "phone": "57",
+      "currency": "COP",
+      "states": []
+    },
+    {
+      "code": "CR",
+      "name": "Costa Rica",
+      "phone": "506",
+      "currency": "CRC",
+      "states": [
+        {
+          "code": null,
+          "name": "San José"
+        },
+        {
+          "code": null,
+          "name": "Alajuela"
+        },
+        {
+          "code": null,
+          "name": "Cartago"
+        },
+        {
+          "code": null,
+          "name": "Heredia"
+        },
+        {
+          "code": null,
+          "name": "Guanacaste"
+        },
+        {
+          "code": null,
+          "name": "Puntarenas"
+        },
+        {
+          "code": null,
+          "name": "Limón"
+        }
+      ]
+    },
+    {
+      "code": "CU",
+      "name": "Cuba",
+      "phone": "53",
+      "currency": "CUC,CUP",
+      "states": [
+        {
+          "code": null,
+          "name": "Camagüey"
+        },
+        {
+          "code": null,
+          "name": "Ciego de Ávila"
+        },
+        {
+          "code": null,
+          "name": "Cienfuegos"
+        },
+        {
+          "code": null,
+          "name": "Havana"
+        },
+        {
+          "code": null,
+          "name": "Bayamo"
+        },
+        {
+          "code": null,
+          "name": "Guantánamo"
+        },
+        {
+          "code": null,
+          "name": "Holguín"
+        },
+        {
+          "code": null,
+          "name": "Nueva Gerona"
+        },
+        {
+          "code": null,
+          "name": "Artemisa"
+        },
+        {
+          "code": null,
+          "name": "Las Tunas"
+        },
+        {
+          "code": null,
+          "name": "Matanzas"
+        },
+        {
+          "code": null,
+          "name": "San José de las Lajas"
+        },
+        {
+          "code": null,
+          "name": "Pinar del Río"
+        },
+        {
+          "code": null,
+          "name": "Sancti Spíritus"
+        },
+        {
+          "code": null,
+          "name": "Santiago de Cuba"
+        },
+        {
+          "code": null,
+          "name": "Santa Clara"
+        }
+      ]
+    },
+    {
+      "code": "CV",
+      "name": "Cape Verde",
+      "phone": "238",
+      "currency": "CVE",
+      "states": []
+    },
+    {
+      "code": "CW",
+      "name": "Curacao",
+      "phone": "5999",
+      "currency": "ANG",
+      "states": []
+    },
+    {
+      "code": "CX",
+      "name": "Christmas Island",
+      "phone": "61",
+      "currency": "AUD",
+      "states": []
+    },
+    {
+      "code": "CY",
+      "name": "Cyprus",
+      "phone": "357",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "CZ",
+      "name": "Czech Republic",
+      "phone": "420",
+      "currency": "CZK",
+      "states": []
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "phone": "49",
+      "currency": "EUR",
+      "states": [
+        {
+          "code": "BW",
+          "name": "Baden-Württemberg"
+        },
+        {
+          "code": "BY",
+          "name": "Bayern"
+        },
+        {
+          "code": "BE",
+          "name": "Berlin"
+        },
+        {
+          "code": "BB",
+          "name": "Brandenburg"
+        },
+        {
+          "code": "HB",
+          "name": "Bremen"
+        },
+        {
+          "code": "HH",
+          "name": "Hamburg"
+        },
+        {
+          "code": "HE",
+          "name": "Hessen"
+        },
+        {
+          "code": "MV",
+          "name": "Mecklenburg-Vorpommern"
+        },
+        {
+          "code": "NI",
+          "name": "Niedersachsen"
+        },
+        {
+          "code": "NW",
+          "name": "Nordrhein-Westfalen"
+        },
+        {
+          "code": "RP",
+          "name": "Rheinland-Pfalz"
+        },
+        {
+          "code": "SL",
+          "name": "Saarland"
+        },
+        {
+          "code": "SN",
+          "name": "Sachsen"
+        },
+        {
+          "code": "ST",
+          "name": "Sachsen-Anhalt"
+        },
+        {
+          "code": "SH",
+          "name": "Schleswig-Holstein"
+        },
+        {
+          "code": "TH",
+          "name": "Thüringen"
+        }
+      ]
+    },
+    {
+      "code": "DJ",
+      "name": "Djibouti",
+      "phone": "253",
+      "currency": "DJF",
+      "states": []
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "phone": "45",
+      "currency": "DKK",
+      "states": [
+        {
+          "code": null,
+          "name": "Hovedstaden"
+        },
+        {
+          "code": null,
+          "name": "Midtjylland"
+        },
+        {
+          "code": null,
+          "name": "Nordjylland"
+        },
+        {
+          "code": null,
+          "name": "Sjælland"
+        },
+        {
+          "code": null,
+          "name": "Syddanmark"
+        }
+      ]
+    },
+    {
+      "code": "DM",
+      "name": "Dominica",
+      "phone": "1767",
+      "currency": "XCD",
+      "states": []
+    },
+    {
+      "code": "DO",
+      "name": "Dominican Republic",
+      "phone": "1809,1829,1849",
+      "currency": "DOP",
+      "states": []
+    },
+    {
+      "code": "DZ",
+      "name": "Algeria",
+      "phone": "213",
+      "currency": "DZD",
+      "states": []
+    },
+    {
+      "code": "EC",
+      "name": "Ecuador",
+      "phone": "593",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "EE",
+      "name": "Estonia",
+      "phone": "372",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "EG",
+      "name": "Egypt",
+      "phone": "20",
+      "currency": "EGP",
+      "states": []
+    },
+    {
+      "code": "EH",
+      "name": "Western Sahara",
+      "phone": "212",
+      "currency": "MAD,DZD,MRU",
+      "states": []
+    },
+    {
+      "code": "ER",
+      "name": "Eritrea",
+      "phone": "291",
+      "currency": "ERN",
+      "states": []
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "phone": "34",
+      "currency": "EUR",
+      "states": [
+        {
+          "code": "C",
+          "name": "La Coruña"
+        },
+        {
+          "code": "LU",
+          "name": "Lugo"
+        },
+        {
+          "code": "BI",
+          "name": "Vizcaya"
+        },
+        {
+          "code": "SS",
+          "name": "Guipúzcoa"
+        },
+        {
+          "code": "HU",
+          "name": "Huesca"
+        },
+        {
+          "code": "L",
+          "name": "Lérida"
+        },
+        {
+          "code": "GI",
+          "name": "Gerona"
+        },
+        {
+          "code": "B",
+          "name": "Barcelona"
+        },
+        {
+          "code": "T",
+          "name": "Tarragona"
+        },
+        {
+          "code": "CS",
+          "name": "Castellón"
+        },
+        {
+          "code": "V",
+          "name": "Valencia"
+        },
+        {
+          "code": "A",
+          "name": "Alicante"
+        },
+        {
+          "code": "MU",
+          "name": "Murcia"
+        },
+        {
+          "code": "Z",
+          "name": "Zaragoza"
+        },
+        {
+          "code": "TE",
+          "name": "Teruel"
+        },
+        {
+          "code": "CU",
+          "name": "Cuenca"
+        },
+        {
+          "code": "AB",
+          "name": "Albacete"
+        },
+        {
+          "code": "AL",
+          "name": "Almeria"
+        },
+        {
+          "code": "GR",
+          "name": "Granada"
+        },
+        {
+          "code": "MA",
+          "name": "Málaga"
+        },
+        {
+          "code": "TF",
+          "name": "Tenerife"
+        },
+        {
+          "code": "CA",
+          "name": "Cádiz"
+        },
+        {
+          "code": "SE",
+          "name": "Sevilla"
+        },
+        {
+          "code": "H",
+          "name": "Huelva"
+        },
+        {
+          "code": "GC",
+          "name": "Las Palmas"
+        },
+        {
+          "code": "M",
+          "name": "Madrid"
+        },
+        {
+          "code": "BA",
+          "name": "Badajoz"
+        },
+        {
+          "code": "CC",
+          "name": "Cáceres"
+        },
+        {
+          "code": "TO",
+          "name": "Toledo"
+        },
+        {
+          "code": "CR",
+          "name": "Ciudad Real"
+        },
+        {
+          "code": "SA",
+          "name": "Salamanca"
+        },
+        {
+          "code": "CO",
+          "name": "Córdoba"
+        },
+        {
+          "code": "J",
+          "name": "Jaén"
+        },
+        {
+          "code": "AV",
+          "name": "Ávila"
+        },
+        {
+          "code": "VA",
+          "name": "Valladolid"
+        },
+        {
+          "code": "ZA",
+          "name": "Zamora"
+        },
+        {
+          "code": "VI",
+          "name": "Álava"
+        },
+        {
+          "code": "SG",
+          "name": "Segovia"
+        },
+        {
+          "code": "BU",
+          "name": "Burgos"
+        },
+        {
+          "code": "PO",
+          "name": "Pontevedra"
+        },
+        {
+          "code": "LE",
+          "name": "León"
+        },
+        {
+          "code": "OU",
+          "name": "Orense"
+        },
+        {
+          "code": "P",
+          "name": "Palencia"
+        },
+        {
+          "code": "LO",
+          "name": "La Rioja"
+        },
+        {
+          "code": "SO",
+          "name": "Soria"
+        },
+        {
+          "code": "GU",
+          "name": "Guadalajara"
+        }
+      ]
+    },
+    {
+      "code": "ET",
+      "name": "Ethiopia",
+      "phone": "251",
+      "currency": "ETB",
+      "states": [
+        {
+          "code": null,
+          "name": "Addis Ababa"
+        },
+        {
+          "code": null,
+          "name": "Afar Region"
+        },
+        {
+          "code": null,
+          "name": "Amhara Region"
+        },
+        {
+          "code": null,
+          "name": "Benishangul-Gumuz"
+        },
+        {
+          "code": null,
+          "name": "Dire Dawa"
+        },
+        {
+          "code": null,
+          "name": "Gambela"
+        },
+        {
+          "code": null,
+          "name": "Harari"
+        },
+        {
+          "code": null,
+          "name": "Oromia"
+        },
+        {
+          "code": null,
+          "name": "Somali"
+        },
+        {
+          "code": null,
+          "name": "Southern Nations, Nationalities, and Peoples' Region"
+        },
+        {
+          "code": null,
+          "name": "Tigray Region"
+        }
+      ]
+    },
+    {
+      "code": "FI",
+      "name": "Finland",
+      "phone": "358",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "FJ",
+      "name": "Fiji",
+      "phone": "679",
+      "currency": "FJD",
+      "states": []
+    },
+    {
+      "code": "FK",
+      "name": "Falkland Islands",
+      "phone": "500",
+      "currency": "FKP",
+      "states": []
+    },
+    {
+      "code": "FM",
+      "name": "Micronesia",
+      "phone": "691",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "FO",
+      "name": "Faroe Islands",
+      "phone": "298",
+      "currency": "DKK",
+      "states": []
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "phone": "33",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "GA",
+      "name": "Gabon",
+      "phone": "241",
+      "currency": "XAF",
+      "states": []
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "phone": "44",
+      "currency": "GBP",
+      "states": [
+        {
+          "code": null,
+          "name": "Avon"
+        },
+        {
+          "code": null,
+          "name": "Bedfordshire"
+        },
+        {
+          "code": null,
+          "name": "Berkshire"
+        },
+        {
+          "code": null,
+          "name": "Borders"
+        },
+        {
+          "code": null,
+          "name": "Bristol"
+        },
+        {
+          "code": null,
+          "name": "Buckinghamshire"
+        },
+        {
+          "code": null,
+          "name": "Cambridgeshire"
+        },
+        {
+          "code": null,
+          "name": "Channel Islands"
+        },
+        {
+          "code": null,
+          "name": "Cheshire"
+        },
+        {
+          "code": null,
+          "name": "Cleveland"
+        },
+        {
+          "code": null,
+          "name": "Cornwall"
+        },
+        {
+          "code": null,
+          "name": "Cumbria"
+        },
+        {
+          "code": null,
+          "name": "Derbyshire"
+        },
+        {
+          "code": null,
+          "name": "Devon"
+        },
+        {
+          "code": null,
+          "name": "Dorset"
+        },
+        {
+          "code": null,
+          "name": "Durham"
+        },
+        {
+          "code": null,
+          "name": "East Riding of Yorkshire"
+        },
+        {
+          "code": null,
+          "name": "East Sussex"
+        },
+        {
+          "code": null,
+          "name": "Essex"
+        },
+        {
+          "code": null,
+          "name": "Gloucestershire"
+        },
+        {
+          "code": null,
+          "name": "Greater Manchester"
+        },
+        {
+          "code": null,
+          "name": "Hampshire"
+        },
+        {
+          "code": null,
+          "name": "Herefordshire"
+        },
+        {
+          "code": null,
+          "name": "Hertfordshire"
+        },
+        {
+          "code": null,
+          "name": "Humberside"
+        },
+        {
+          "code": null,
+          "name": "Isle of Man"
+        },
+        {
+          "code": null,
+          "name": "Isle of Wight"
+        },
+        {
+          "code": null,
+          "name": "Isles of Scilly"
+        },
+        {
+          "code": null,
+          "name": "Kent"
+        },
+        {
+          "code": null,
+          "name": "Lancashire"
+        },
+        {
+          "code": null,
+          "name": "Leicestershire"
+        },
+        {
+          "code": null,
+          "name": "Lincolnshire"
+        },
+        {
+          "code": null,
+          "name": "London"
+        },
+        {
+          "code": null,
+          "name": "Merseyside"
+        },
+        {
+          "code": null,
+          "name": "Middlesex"
+        },
+        {
+          "code": null,
+          "name": "Norfolk"
+        },
+        {
+          "code": null,
+          "name": "North Yorkshire"
+        },
+        {
+          "code": null,
+          "name": "Northamptonshire"
+        },
+        {
+          "code": null,
+          "name": "Northumberland"
+        },
+        {
+          "code": null,
+          "name": "Nottinghamshire"
+        },
+        {
+          "code": null,
+          "name": "Oxfordshire"
+        },
+        {
+          "code": null,
+          "name": "Rutland"
+        },
+        {
+          "code": null,
+          "name": "Shropshire"
+        },
+        {
+          "code": null,
+          "name": "Somerset"
+        },
+        {
+          "code": null,
+          "name": "South Yorkshire"
+        },
+        {
+          "code": null,
+          "name": "Staffordshire"
+        },
+        {
+          "code": null,
+          "name": "Suffolk"
+        },
+        {
+          "code": null,
+          "name": "Surrey"
+        },
+        {
+          "code": null,
+          "name": "Tyne and Wear"
+        },
+        {
+          "code": null,
+          "name": "Warwickshire"
+        },
+        {
+          "code": null,
+          "name": "West Midlands"
+        },
+        {
+          "code": null,
+          "name": "West Sussex"
+        },
+        {
+          "code": null,
+          "name": "West Yorkshire"
+        },
+        {
+          "code": null,
+          "name": "Wiltshire"
+        },
+        {
+          "code": null,
+          "name": "Worcestershire"
+        },
+        {
+          "code": null,
+          "name": "Antrim"
+        },
+        {
+          "code": null,
+          "name": "Down"
+        },
+        {
+          "code": null,
+          "name": "Fermanagh"
+        },
+        {
+          "code": null,
+          "name": "Londonderry"
+        },
+        {
+          "code": null,
+          "name": "Tyrone"
+        },
+        {
+          "code": null,
+          "name": "Aberdeen City"
+        },
+        {
+          "code": null,
+          "name": "Aberdeenshire"
+        },
+        {
+          "code": null,
+          "name": "Angus"
+        },
+        {
+          "code": null,
+          "name": "Argyll and Bute"
+        },
+        {
+          "code": null,
+          "name": "Armagh"
+        },
+        {
+          "code": null,
+          "name": "Carmarthenshire"
+        },
+        {
+          "code": null,
+          "name": "Clackmannan"
+        },
+        {
+          "code": null,
+          "name": "Dumfries and Galloway"
+        },
+        {
+          "code": null,
+          "name": "East Ayrshire"
+        },
+        {
+          "code": null,
+          "name": "East Dunbartonshire"
+        },
+        {
+          "code": null,
+          "name": "East Lothian"
+        },
+        {
+          "code": null,
+          "name": "East Renfrewshire"
+        },
+        {
+          "code": null,
+          "name": "Edinburgh City"
+        },
+        {
+          "code": null,
+          "name": "Falkirk"
+        },
+        {
+          "code": null,
+          "name": "Fife"
+        },
+        {
+          "code": null,
+          "name": "Glasgow"
+        },
+        {
+          "code": null,
+          "name": "Highland"
+        },
+        {
+          "code": null,
+          "name": "Inverclyde"
+        },
+        {
+          "code": null,
+          "name": "Midlothian"
+        },
+        {
+          "code": null,
+          "name": "Moray"
+        },
+        {
+          "code": null,
+          "name": "North Ayrshire"
+        },
+        {
+          "code": null,
+          "name": "North Lanarkshire"
+        },
+        {
+          "code": null,
+          "name": "Orkney"
+        },
+        {
+          "code": null,
+          "name": "Perthshire and Kinross"
+        },
+        {
+          "code": null,
+          "name": "Renfrewshire"
+        },
+        {
+          "code": null,
+          "name": "Roxburghshire"
+        },
+        {
+          "code": null,
+          "name": "Shetland"
+        },
+        {
+          "code": null,
+          "name": "South Ayrshire"
+        },
+        {
+          "code": null,
+          "name": "South Lanarkshire"
+        },
+        {
+          "code": null,
+          "name": "Stirling"
+        },
+        {
+          "code": null,
+          "name": "West Dunbartonshire"
+        },
+        {
+          "code": null,
+          "name": "West Lothian"
+        },
+        {
+          "code": null,
+          "name": "Western Isles"
+        },
+        {
+          "code": null,
+          "name": "Blaenau Gwent"
+        },
+        {
+          "code": null,
+          "name": "Bridgend"
+        },
+        {
+          "code": null,
+          "name": "Caerphilly"
+        },
+        {
+          "code": null,
+          "name": "Cardiff"
+        },
+        {
+          "code": null,
+          "name": "Ceredigion"
+        },
+        {
+          "code": null,
+          "name": "Conwy"
+        },
+        {
+          "code": null,
+          "name": "Denbighshire"
+        },
+        {
+          "code": null,
+          "name": "Flintshire"
+        },
+        {
+          "code": null,
+          "name": "Gwynedd"
+        },
+        {
+          "code": null,
+          "name": "Isle of Anglesey"
+        },
+        {
+          "code": null,
+          "name": "Merthyr Tydfil"
+        },
+        {
+          "code": null,
+          "name": "Monmouthshire"
+        },
+        {
+          "code": null,
+          "name": "Neath Port Talbot"
+        },
+        {
+          "code": null,
+          "name": "Newport"
+        },
+        {
+          "code": null,
+          "name": "Pembrokeshire"
+        },
+        {
+          "code": null,
+          "name": "Powys"
+        },
+        {
+          "code": null,
+          "name": "Rhondda Cynon Taff"
+        },
+        {
+          "code": null,
+          "name": "Swansea"
+        },
+        {
+          "code": null,
+          "name": "The Vale of Glamorgan"
+        },
+        {
+          "code": null,
+          "name": "Torfaen"
+        },
+        {
+          "code": null,
+          "name": "Wrexham"
+        }
+      ]
+    },
+    {
+      "code": "GD",
+      "name": "Grenada",
+      "phone": "1473",
+      "currency": "XCD",
+      "states": []
+    },
+    {
+      "code": "GE",
+      "name": "Georgia",
+      "phone": "995",
+      "currency": "GEL",
+      "states": []
+    },
+    {
+      "code": "GF",
+      "name": "French Guiana",
+      "phone": "594",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "GG",
+      "name": "Guernsey",
+      "phone": "44",
+      "currency": "GBP",
+      "states": []
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "phone": "233",
+      "currency": "GHS",
+      "states": []
+    },
+    {
+      "code": "GI",
+      "name": "Gibraltar",
+      "phone": "350",
+      "currency": "GIP",
+      "states": []
+    },
+    {
+      "code": "GL",
+      "name": "Greenland",
+      "phone": "299",
+      "currency": "DKK",
+      "states": []
+    },
+    {
+      "code": "GM",
+      "name": "Gambia",
+      "phone": "220",
+      "currency": "GMD",
+      "states": []
+    },
+    {
+      "code": "GN",
+      "name": "Guinea",
+      "phone": "224",
+      "currency": "GNF",
+      "states": []
+    },
+    {
+      "code": "GP",
+      "name": "Guadeloupe",
+      "phone": "590",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "GQ",
+      "name": "Equatorial Guinea",
+      "phone": "240",
+      "currency": "XAF",
+      "states": []
+    },
+    {
+      "code": "GR",
+      "name": "Greece",
+      "phone": "30",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "GS",
+      "name": "South Georgia and the South Sandwich Islands",
+      "phone": "500",
+      "currency": "GBP",
+      "states": []
+    },
+    {
+      "code": "GT",
+      "name": "Guatemala",
+      "phone": "502",
+      "currency": "GTQ",
+      "states": []
+    },
+    {
+      "code": "GU",
+      "name": "Guam",
+      "phone": "1671",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "GW",
+      "name": "Guinea-Bissau",
+      "phone": "245",
+      "currency": "XOF",
+      "states": []
+    },
+    {
+      "code": "GY",
+      "name": "Guyana",
+      "phone": "592",
+      "currency": "GYD",
+      "states": []
+    },
+    {
+      "code": "HK",
+      "name": "Hong Kong",
+      "phone": "852",
+      "currency": "HKD",
+      "states": []
+    },
+    {
+      "code": "HM",
+      "name": "Heard Island and McDonald Islands",
+      "phone": "61",
+      "currency": "AUD",
+      "states": []
+    },
+    {
+      "code": "HN",
+      "name": "Honduras",
+      "phone": "504",
+      "currency": "HNL",
+      "states": []
+    },
+    {
+      "code": "HR",
+      "name": "Croatia",
+      "phone": "385",
+      "currency": "HRK",
+      "states": []
+    },
+    {
+      "code": "HT",
+      "name": "Haiti",
+      "phone": "509",
+      "currency": "HTG,USD",
+      "states": []
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "phone": "36",
+      "currency": "HUF",
+      "states": []
+    },
+    {
+      "code": "ID",
+      "name": "Indonesia",
+      "phone": "62",
+      "currency": "IDR",
+      "states": [
+        {
+          "code": "ID-AC",
+          "name": "Special Region of Aceh"
+        },
+        {
+          "code": "ID-BA",
+          "name": "Bali"
+        },
+        {
+          "code": "ID-BB",
+          "name": "Bangka–Belitung Islands"
+        },
+        {
+          "code": "ID-BT",
+          "name": "Banten"
+        },
+        {
+          "code": "ID-BE",
+          "name": "Bengkulu"
+        },
+        {
+          "code": "ID-JT",
+          "name": "Central Java"
+        },
+        {
+          "code": "ID-KT",
+          "name": "Central Kalimantan"
+        },
+        {
+          "code": "ID-ST",
+          "name": "Central Sulawesi"
+        },
+        {
+          "code": "ID-JI",
+          "name": "East Java"
+        },
+        {
+          "code": "ID-KI",
+          "name": "East Kalimantan"
+        },
+        {
+          "code": "ID-NT",
+          "name": "East Nusa Tenggara"
+        },
+        {
+          "code": "ID-GO",
+          "name": "Gorontalo"
+        },
+        {
+          "code": "ID-JK",
+          "name": "Jakarta Special Capital Region"
+        },
+        {
+          "code": "ID-JA",
+          "name": "Jambi"
+        },
+        {
+          "code": "ID-LA",
+          "name": "Lampung"
+        },
+        {
+          "code": "ID-MA",
+          "name": "Maluku"
+        },
+        {
+          "code": "ID-KU",
+          "name": "North Kalimantan"
+        },
+        {
+          "code": "ID-MU",
+          "name": "North Maluku"
+        },
+        {
+          "code": "ID-SA",
+          "name": "North Sulawesi"
+        },
+        {
+          "code": "ID-SU",
+          "name": "North Sumatra"
+        },
+        {
+          "code": "ID-PA",
+          "name": "Special Region of Papua"
+        },
+        {
+          "code": "ID-RI",
+          "name": "Riau"
+        },
+        {
+          "code": "ID-KR",
+          "name": "Riau Islands"
+        },
+        {
+          "code": "ID-SG",
+          "name": "Southeast Sulawesi"
+        },
+        {
+          "code": "ID-KS",
+          "name": "South Kalimantan"
+        },
+        {
+          "code": "ID-SN",
+          "name": "South Sulawesi"
+        },
+        {
+          "code": "ID-SS",
+          "name": "South Sumatra"
+        },
+        {
+          "code": "ID-JB",
+          "name": "West Java"
+        },
+        {
+          "code": "ID-KB",
+          "name": "West Kalimantan"
+        },
+        {
+          "code": "ID-NB",
+          "name": "West Nusa Tenggara"
+        },
+        {
+          "code": "ID-PB",
+          "name": "Special Region of West Papua"
+        },
+        {
+          "code": "ID-SR",
+          "name": "West Sulawesi"
+        },
+        {
+          "code": "ID-SB",
+          "name": "West Sumatra"
+        },
+        {
+          "code": "ID-YO",
+          "name": "Special Region of Yogyakarta"
+        }
+      ]
+    },
+    {
+      "code": "IE",
+      "name": "Ireland",
+      "phone": "353",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "IL",
+      "name": "Israel",
+      "phone": "972",
+      "currency": "ILS",
+      "states": []
+    },
+    {
+      "code": "IM",
+      "name": "Isle of Man",
+      "phone": "44",
+      "currency": "GBP",
+      "states": []
+    },
+    {
+      "code": "IN",
+      "name": "India",
+      "phone": "91",
+      "currency": "INR",
+      "states": [
+        {
+          "code": "AP",
+          "name": "Andhra Pradesh"
+        },
+        {
+          "code": "AR",
+          "name": "Arunachal Pradesh"
+        },
+        {
+          "code": "AS",
+          "name": "Assam"
+        },
+        {
+          "code": "BR",
+          "name": "Bihar"
+        },
+        {
+          "code": "CT",
+          "name": "Chhattisgarh"
+        },
+        {
+          "code": "GA",
+          "name": "Goa"
+        },
+        {
+          "code": "GJ",
+          "name": "Gujarat"
+        },
+        {
+          "code": "HR",
+          "name": "Haryana"
+        },
+        {
+          "code": "HP",
+          "name": "Himachal Pradesh"
+        },
+        {
+          "code": "JK",
+          "name": "Jammu and Kashmir"
+        },
+        {
+          "code": "JH",
+          "name": "Jharkhand"
+        },
+        {
+          "code": "KA",
+          "name": "Karnataka"
+        },
+        {
+          "code": "KL",
+          "name": "Kerala"
+        },
+        {
+          "code": "MP",
+          "name": "Madhya Pradesh"
+        },
+        {
+          "code": "MH",
+          "name": "Maharashtra"
+        },
+        {
+          "code": "MN",
+          "name": "Manipur"
+        },
+        {
+          "code": "ML",
+          "name": "Meghalaya"
+        },
+        {
+          "code": "MZ",
+          "name": "Mizoram"
+        },
+        {
+          "code": "NL",
+          "name": "Nagaland"
+        },
+        {
+          "code": "OR",
+          "name": "Odisha"
+        },
+        {
+          "code": "PB",
+          "name": "Punjab"
+        },
+        {
+          "code": "RJ",
+          "name": "Rajasthan"
+        },
+        {
+          "code": "SK",
+          "name": "Sikkim"
+        },
+        {
+          "code": "TN",
+          "name": "Tamil Nadu"
+        },
+        {
+          "code": "TG",
+          "name": "Telangana"
+        },
+        {
+          "code": "TR",
+          "name": "Tripura"
+        },
+        {
+          "code": "UP",
+          "name": "Uttar Pradesh"
+        },
+        {
+          "code": "UT",
+          "name": "Uttarakhand"
+        },
+        {
+          "code": "WB",
+          "name": "West Bengal"
+        },
+        {
+          "code": "AN",
+          "name": "Andaman and Nicobar Islands"
+        },
+        {
+          "code": "CH",
+          "name": "Chandigarh"
+        },
+        {
+          "code": "DN",
+          "name": "Dadra and Nagar Haveli"
+        },
+        {
+          "code": "DD",
+          "name": "Daman and Diu"
+        },
+        {
+          "code": "LD",
+          "name": "Lakshadweep"
+        },
+        {
+          "code": "DL",
+          "name": "National Capital Territory of Delhi"
+        },
+        {
+          "code": "PY",
+          "name": "Puducherry"
+        }
+      ]
+    },
+    {
+      "code": "IO",
+      "name": "British Indian Ocean Territory",
+      "phone": "246",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "IQ",
+      "name": "Iraq",
+      "phone": "964",
+      "currency": "IQD",
+      "states": []
+    },
+    {
+      "code": "IR",
+      "name": "Iran",
+      "phone": "98",
+      "currency": "IRR",
+      "states": []
+    },
+    {
+      "code": "IS",
+      "name": "Iceland",
+      "phone": "354",
+      "currency": "ISK",
+      "states": []
+    },
+    {
+      "code": "IT",
+      "name": "Italy",
+      "phone": "39",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "JE",
+      "name": "Jersey",
+      "phone": "44",
+      "currency": "GBP",
+      "states": []
+    },
+    {
+      "code": "JM",
+      "name": "Jamaica",
+      "phone": "1876",
+      "currency": "JMD",
+      "states": []
+    },
+    {
+      "code": "JO",
+      "name": "Jordan",
+      "phone": "962",
+      "currency": "JOD",
+      "states": [
+        {
+          "code": null,
+          "name": "Irbid"
+        },
+        {
+          "code": null,
+          "name": "Ajloun"
+        },
+        {
+          "code": null,
+          "name": "Jerash"
+        },
+        {
+          "code": null,
+          "name": "Mafraq"
+        },
+        {
+          "code": null,
+          "name": "Balqa"
+        },
+        {
+          "code": null,
+          "name": "Amman"
+        },
+        {
+          "code": null,
+          "name": "Zarqa"
+        },
+        {
+          "code": null,
+          "name": "Madaba"
+        },
+        {
+          "code": null,
+          "name": "Karak"
+        },
+        {
+          "code": null,
+          "name": "Tafilah"
+        },
+        {
+          "code": null,
+          "name": "Ma'an"
+        },
+        {
+          "code": null,
+          "name": "Aqaba"
+        }
+      ]
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "phone": "81",
+      "currency": "JPY",
+      "states": [
+        {
+          "code": null,
+          "name": "愛知県"
+        },
+        {
+          "code": null,
+          "name": "秋田県"
+        },
+        {
+          "code": null,
+          "name": "青森県"
+        },
+        {
+          "code": null,
+          "name": "千葉県"
+        },
+        {
+          "code": null,
+          "name": "愛媛県"
+        },
+        {
+          "code": null,
+          "name": "福井県"
+        },
+        {
+          "code": null,
+          "name": "福岡県"
+        },
+        {
+          "code": null,
+          "name": "福島県"
+        },
+        {
+          "code": null,
+          "name": "岐阜県"
+        },
+        {
+          "code": null,
+          "name": "群馬県"
+        },
+        {
+          "code": null,
+          "name": "広島県"
+        },
+        {
+          "code": null,
+          "name": "北海道"
+        },
+        {
+          "code": null,
+          "name": "兵庫県"
+        },
+        {
+          "code": null,
+          "name": "茨城県"
+        },
+        {
+          "code": null,
+          "name": "石川県"
+        },
+        {
+          "code": null,
+          "name": "岩手県"
+        },
+        {
+          "code": null,
+          "name": "香川県"
+        },
+        {
+          "code": null,
+          "name": "鹿児島県"
+        },
+        {
+          "code": null,
+          "name": "神奈川県"
+        },
+        {
+          "code": null,
+          "name": "高知県"
+        },
+        {
+          "code": null,
+          "name": "熊本県"
+        },
+        {
+          "code": null,
+          "name": "京都府"
+        },
+        {
+          "code": null,
+          "name": "三重県"
+        },
+        {
+          "code": null,
+          "name": "宮城県"
+        },
+        {
+          "code": null,
+          "name": "宮崎県"
+        },
+        {
+          "code": null,
+          "name": "長野県"
+        },
+        {
+          "code": null,
+          "name": "長崎県"
+        },
+        {
+          "code": null,
+          "name": "奈良県"
+        },
+        {
+          "code": null,
+          "name": "新潟県"
+        },
+        {
+          "code": null,
+          "name": "大分県"
+        },
+        {
+          "code": null,
+          "name": "岡山県"
+        },
+        {
+          "code": null,
+          "name": "沖縄県"
+        },
+        {
+          "code": null,
+          "name": "大阪府"
+        },
+        {
+          "code": null,
+          "name": "佐賀県"
+        },
+        {
+          "code": null,
+          "name": "埼玉県"
+        },
+        {
+          "code": null,
+          "name": "滋賀県"
+        },
+        {
+          "code": null,
+          "name": "島根県"
+        },
+        {
+          "code": null,
+          "name": "静岡県"
+        },
+        {
+          "code": null,
+          "name": "栃木県"
+        },
+        {
+          "code": null,
+          "name": "徳島県"
+        },
+        {
+          "code": null,
+          "name": "東京都"
+        },
+        {
+          "code": null,
+          "name": "鳥取県"
+        },
+        {
+          "code": null,
+          "name": "富山県"
+        },
+        {
+          "code": null,
+          "name": "和歌山県"
+        },
+        {
+          "code": null,
+          "name": "山形県"
+        },
+        {
+          "code": null,
+          "name": "山口県"
+        },
+        {
+          "code": null,
+          "name": "山梨県"
+        }
+      ]
+    },
+    {
+      "code": "KE",
+      "name": "Kenya",
+      "phone": "254",
+      "currency": "KES",
+      "states": []
+    },
+    {
+      "code": "KG",
+      "name": "Kyrgyzstan",
+      "phone": "996",
+      "currency": "KGS",
+      "states": []
+    },
+    {
+      "code": "KH",
+      "name": "Cambodia",
+      "phone": "855",
+      "currency": "KHR",
+      "states": [
+        {
+          "code": null,
+          "name": "ភ្នំពេញ"
+        },
+        {
+          "code": null,
+          "name": "បន្ទាយមានជ័យ"
+        },
+        {
+          "code": null,
+          "name": "បាត់ដំបង"
+        },
+        {
+          "code": null,
+          "name": "កំពង់ចាម"
+        },
+        {
+          "code": null,
+          "name": "កំពង់ឆ្នាំង"
+        },
+        {
+          "code": null,
+          "name": "កំពង់ស្ពឺ"
+        },
+        {
+          "code": null,
+          "name": "កំពង់ធំ"
+        },
+        {
+          "code": null,
+          "name": "កំពត"
+        },
+        {
+          "code": null,
+          "name": "កណ្តាល"
+        },
+        {
+          "code": null,
+          "name": "កោះកុង"
+        },
+        {
+          "code": null,
+          "name": "កែប"
+        },
+        {
+          "code": null,
+          "name": "ក្រចេះ"
+        },
+        {
+          "code": null,
+          "name": "មណ្ឌលគីរី"
+        },
+        {
+          "code": null,
+          "name": "ឧត្តរមានជ័យ"
+        },
+        {
+          "code": null,
+          "name": "បៃលិន"
+        },
+        {
+          "code": null,
+          "name": "ព្រះសីហនុ"
+        },
+        {
+          "code": null,
+          "name": "ព្រះវិហារ"
+        },
+        {
+          "code": null,
+          "name": "ពោធិ៍សាត់"
+        },
+        {
+          "code": null,
+          "name": "ព្រៃវែង"
+        },
+        {
+          "code": null,
+          "name": "រតនគីរី"
+        },
+        {
+          "code": null,
+          "name": "សៀមរាប"
+        },
+        {
+          "code": null,
+          "name": "ស្ទឹងត្រែង"
+        },
+        {
+          "code": null,
+          "name": "ស្វាយរៀង"
+        },
+        {
+          "code": null,
+          "name": "តាកែវ"
+        },
+        {
+          "code": null,
+          "name": "ត្បូងឃ្មុំ"
+        }
+      ]
+    },
+    {
+      "code": "KI",
+      "name": "Kiribati",
+      "phone": "686",
+      "currency": "AUD",
+      "states": []
+    },
+    {
+      "code": "KM",
+      "name": "Comoros",
+      "phone": "269",
+      "currency": "KMF",
+      "states": []
+    },
+    {
+      "code": "KN",
+      "name": "Saint Kitts and Nevis",
+      "phone": "1869",
+      "currency": "XCD",
+      "states": []
+    },
+    {
+      "code": "KP",
+      "name": "North Korea",
+      "phone": "850",
+      "currency": "KPW",
+      "states": []
+    },
+    {
+      "code": "KR",
+      "name": "South Korea",
+      "phone": "82",
+      "currency": "KRW",
+      "states": []
+    },
+    {
+      "code": "KW",
+      "name": "Kuwait",
+      "phone": "965",
+      "currency": "KWD",
+      "states": []
+    },
+    {
+      "code": "KY",
+      "name": "Cayman Islands",
+      "phone": "1345",
+      "currency": "KYD",
+      "states": []
+    },
+    {
+      "code": "KZ",
+      "name": "Kazakhstan",
+      "phone": "76,77",
+      "currency": "KZT",
+      "states": []
+    },
+    {
+      "code": "LA",
+      "name": "Laos",
+      "phone": "856",
+      "currency": "LAK",
+      "states": []
+    },
+    {
+      "code": "LB",
+      "name": "Lebanon",
+      "phone": "961",
+      "currency": "LBP",
+      "states": []
+    },
+    {
+      "code": "LC",
+      "name": "Saint Lucia",
+      "phone": "1758",
+      "currency": "XCD",
+      "states": []
+    },
+    {
+      "code": "LI",
+      "name": "Liechtenstein",
+      "phone": "423",
+      "currency": "CHF",
+      "states": []
+    },
+    {
+      "code": "LK",
+      "name": "Sri Lanka",
+      "phone": "94",
+      "currency": "LKR",
+      "states": []
+    },
+    {
+      "code": "LR",
+      "name": "Liberia",
+      "phone": "231",
+      "currency": "LRD",
+      "states": []
+    },
+    {
+      "code": "LS",
+      "name": "Lesotho",
+      "phone": "266",
+      "currency": "LSL,ZAR",
+      "states": []
+    },
+    {
+      "code": "LT",
+      "name": "Lithuania",
+      "phone": "370",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "LU",
+      "name": "Luxembourg",
+      "phone": "352",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "LV",
+      "name": "Latvia",
+      "phone": "371",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "LY",
+      "name": "Libya",
+      "phone": "218",
+      "currency": "LYD",
+      "states": []
+    },
+    {
+      "code": "MA",
+      "name": "Morocco",
+      "phone": "212",
+      "currency": "MAD",
+      "states": []
+    },
+    {
+      "code": "MC",
+      "name": "Monaco",
+      "phone": "377",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "MD",
+      "name": "Moldova",
+      "phone": "373",
+      "currency": "MDL",
+      "states": []
+    },
+    {
+      "code": "ME",
+      "name": "Montenegro",
+      "phone": "382",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "MF",
+      "name": "Saint Martin",
+      "phone": "590",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "MG",
+      "name": "Madagascar",
+      "phone": "261",
+      "currency": "MGA",
+      "states": []
+    },
+    {
+      "code": "MH",
+      "name": "Marshall Islands",
+      "phone": "692",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "MK",
+      "name": "North Macedonia",
+      "phone": "389",
+      "currency": "MKD",
+      "states": []
+    },
+    {
+      "code": "ML",
+      "name": "Mali",
+      "phone": "223",
+      "currency": "XOF",
+      "states": []
+    },
+    {
+      "code": "MM",
+      "name": "Myanmar [Burma]",
+      "phone": "95",
+      "currency": "MMK",
+      "states": []
+    },
+    {
+      "code": "MN",
+      "name": "Mongolia",
+      "phone": "976",
+      "currency": "MNT",
+      "states": []
+    },
+    {
+      "code": "MO",
+      "name": "Macao",
+      "phone": "853",
+      "currency": "MOP",
+      "states": []
+    },
+    {
+      "code": "MP",
+      "name": "Northern Mariana Islands",
+      "phone": "1670",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "MQ",
+      "name": "Martinique",
+      "phone": "596",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "MR",
+      "name": "Mauritania",
+      "phone": "222",
+      "currency": "MRU",
+      "states": []
+    },
+    {
+      "code": "MS",
+      "name": "Montserrat",
+      "phone": "1664",
+      "currency": "XCD",
+      "states": []
+    },
+    {
+      "code": "MT",
+      "name": "Malta",
+      "phone": "356",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "MU",
+      "name": "Mauritius",
+      "phone": "230",
+      "currency": "MUR",
+      "states": []
+    },
+    {
+      "code": "MV",
+      "name": "Maldives",
+      "phone": "960",
+      "currency": "MVR",
+      "states": []
+    },
+    {
+      "code": "MW",
+      "name": "Malawi",
+      "phone": "265",
+      "currency": "MWK",
+      "states": []
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "phone": "52",
+      "currency": "MXN",
+      "states": [
+        {
+          "code": "AG",
+          "name": "Aguascalientes"
+        },
+        {
+          "code": "BC",
+          "name": "Baja California"
+        },
+        {
+          "code": "BS",
+          "name": "Baja California Sur"
+        },
+        {
+          "code": "CM",
+          "name": "Campeche"
+        },
+        {
+          "code": "CS",
+          "name": "Chiapas"
+        },
+        {
+          "code": "CH",
+          "name": "Chihuahua"
+        },
+        {
+          "code": "MX",
+          "name": "Coahuila"
+        },
+        {
+          "code": "CL",
+          "name": "Colima"
+        },
+        {
+          "code": "DF",
+          "name": "Federal District"
+        },
+        {
+          "code": "DG",
+          "name": "Durango"
+        },
+        {
+          "code": "GT",
+          "name": "Guanajuato"
+        },
+        {
+          "code": "GR",
+          "name": "Guerrero"
+        },
+        {
+          "code": "HG",
+          "name": "Hidalgo"
+        },
+        {
+          "code": "JA",
+          "name": "Jalisco"
+        },
+        {
+          "code": "ME",
+          "name": "Mexico"
+        },
+        {
+          "code": "MI",
+          "name": "Michoacán"
+        },
+        {
+          "code": "MO",
+          "name": "Morelos"
+        },
+        {
+          "code": "NA",
+          "name": "Nayarit"
+        },
+        {
+          "code": "NL",
+          "name": "Nuevo León"
+        },
+        {
+          "code": "OA",
+          "name": "Oaxaca"
+        },
+        {
+          "code": "PU",
+          "name": "Puebla"
+        },
+        {
+          "code": "QE",
+          "name": "Querétaro"
+        },
+        {
+          "code": "QR",
+          "name": "Quintana Roo"
+        },
+        {
+          "code": "SL",
+          "name": "San Luis Potosí"
+        },
+        {
+          "code": "SI",
+          "name": "Sinaloa"
+        },
+        {
+          "code": "SO",
+          "name": "Sonora"
+        },
+        {
+          "code": "TB",
+          "name": "Tabasco"
+        },
+        {
+          "code": "TM",
+          "name": "Tamaulipas"
+        },
+        {
+          "code": "TL",
+          "name": "Tlaxcala"
+        },
+        {
+          "code": "VE",
+          "name": "Veracruz"
+        },
+        {
+          "code": "YU",
+          "name": "Yucatán"
+        },
+        {
+          "code": "ZA",
+          "name": "Zacatecas"
+        }
+      ]
+    },
+    {
+      "code": "MY",
+      "name": "Malaysia",
+      "phone": "60",
+      "currency": "MYR",
+      "states": []
+    },
+    {
+      "code": "MZ",
+      "name": "Mozambique",
+      "phone": "258",
+      "currency": "MZN",
+      "states": []
+    },
+    {
+      "code": "NA",
+      "name": "Namibia",
+      "phone": "264",
+      "currency": "NAD,ZAR",
+      "states": []
+    },
+    {
+      "code": "NC",
+      "name": "New Caledonia",
+      "phone": "687",
+      "currency": "XPF",
+      "states": []
+    },
+    {
+      "code": "NE",
+      "name": "Niger",
+      "phone": "227",
+      "currency": "XOF",
+      "states": []
+    },
+    {
+      "code": "NF",
+      "name": "Norfolk Island",
+      "phone": "672",
+      "currency": "AUD",
+      "states": []
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "phone": "234",
+      "currency": "NGN",
+      "states": [
+        {
+          "code": "AB",
+          "name": "Abia"
+        },
+        {
+          "code": "FC",
+          "name": "Abuja"
+        },
+        {
+          "code": "AD",
+          "name": "Adamawa"
+        },
+        {
+          "code": "AK",
+          "name": "Akwa Ibom"
+        },
+        {
+          "code": "AN",
+          "name": "Anambra"
+        },
+        {
+          "code": "BA",
+          "name": "Bauchi"
+        },
+        {
+          "code": "BY",
+          "name": "Bayelsa"
+        },
+        {
+          "code": "BE",
+          "name": "Benue"
+        },
+        {
+          "code": "BO",
+          "name": "Borno"
+        },
+        {
+          "code": "CR",
+          "name": "Cross River"
+        },
+        {
+          "code": "DE",
+          "name": "Delta"
+        },
+        {
+          "code": "EB",
+          "name": "Ebonyi"
+        },
+        {
+          "code": "ED",
+          "name": "Edo"
+        },
+        {
+          "code": "EK",
+          "name": "Ekiti"
+        },
+        {
+          "code": "EN",
+          "name": "Enugu"
+        },
+        {
+          "code": "GO",
+          "name": "Gombe"
+        },
+        {
+          "code": "IM",
+          "name": "Imo"
+        },
+        {
+          "code": "JI",
+          "name": "Jigawa"
+        },
+        {
+          "code": "KD",
+          "name": "Kaduna"
+        },
+        {
+          "code": "KN",
+          "name": "Kano"
+        },
+        {
+          "code": "KT",
+          "name": "Katsina"
+        },
+        {
+          "code": "KE",
+          "name": "Kebbi"
+        },
+        {
+          "code": "KO",
+          "name": "Kogi"
+        },
+        {
+          "code": "KW",
+          "name": "Kwara"
+        },
+        {
+          "code": "LA",
+          "name": "Lagos"
+        },
+        {
+          "code": "NA",
+          "name": "Nasarawa"
+        },
+        {
+          "code": "NI",
+          "name": "Niger"
+        },
+        {
+          "code": "OG",
+          "name": "Ogun"
+        },
+        {
+          "code": "ON",
+          "name": "Ondo"
+        },
+        {
+          "code": "OS",
+          "name": "Osun"
+        },
+        {
+          "code": "OY",
+          "name": "Oyo"
+        },
+        {
+          "code": "PL",
+          "name": "Plateau"
+        },
+        {
+          "code": "RI",
+          "name": "Rivers"
+        },
+        {
+          "code": "SO",
+          "name": "Sokoto"
+        },
+        {
+          "code": "TA",
+          "name": "Taraba"
+        },
+        {
+          "code": "YO",
+          "name": "Yobe"
+        },
+        {
+          "code": "ZA",
+          "name": "Zamfara"
+        }
+      ]
+    },
+    {
+      "code": "NI",
+      "name": "Nicaragua",
+      "phone": "505",
+      "currency": "NIO",
+      "states": []
+    },
+    {
+      "code": "NL",
+      "name": "Netherlands",
+      "phone": "31",
+      "currency": "EUR",
+      "states": [
+        {
+          "code": "DR",
+          "name": "Drenthe"
+        },
+        {
+          "code": "FL",
+          "name": "Flevoland"
+        },
+        {
+          "code": "FR",
+          "name": "Friesland"
+        },
+        {
+          "code": "GD",
+          "name": "Gelderland"
+        },
+        {
+          "code": "GR",
+          "name": "Groningen"
+        },
+        {
+          "code": "LB",
+          "name": "Limburg"
+        },
+        {
+          "code": "NB",
+          "name": "Noord-Brabant"
+        },
+        {
+          "code": "NH",
+          "name": "Noord-Holland"
+        },
+        {
+          "code": "OV",
+          "name": "Overijssel"
+        },
+        {
+          "code": "UT",
+          "name": "Utrecht"
+        },
+        {
+          "code": "ZH",
+          "name": "Zuid-Holland"
+        },
+        {
+          "code": "ZL",
+          "name": "Zeeland"
+        }
+      ]
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "phone": "47",
+      "currency": "NOK",
+      "states": []
+    },
+    {
+      "code": "NP",
+      "name": "Nepal",
+      "phone": "977",
+      "currency": "NPR",
+      "states": []
+    },
+    {
+      "code": "NR",
+      "name": "Nauru",
+      "phone": "674",
+      "currency": "AUD",
+      "states": []
+    },
+    {
+      "code": "NU",
+      "name": "Niue",
+      "phone": "683",
+      "currency": "NZD",
+      "states": []
+    },
+    {
+      "code": "NZ",
+      "name": "New Zealand",
+      "phone": "64",
+      "currency": "NZD",
+      "states": [
+        {
+          "code": null,
+          "name": "Auckland"
+        },
+        {
+          "code": null,
+          "name": "New Plymouth"
+        },
+        {
+          "code": null,
+          "name": "Hawke's Bay"
+        },
+        {
+          "code": null,
+          "name": "Wellington"
+        },
+        {
+          "code": null,
+          "name": "Nelson"
+        },
+        {
+          "code": null,
+          "name": "Marlborough"
+        },
+        {
+          "code": null,
+          "name": "Westland"
+        },
+        {
+          "code": null,
+          "name": "Canterbury"
+        },
+        {
+          "code": null,
+          "name": "Otago"
+        },
+        {
+          "code": null,
+          "name": "Southland"
+        }
+      ]
+    },
+    {
+      "code": "OM",
+      "name": "Oman",
+      "phone": "968",
+      "currency": "OMR",
+      "states": []
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "phone": "507",
+      "currency": "PAB,USD",
+      "states": []
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "phone": "51",
+      "currency": "PEN",
+      "states": [
+        {
+          "code": null,
+          "name": "Chachapoyas"
+        },
+        {
+          "code": null,
+          "name": "Bagua"
+        },
+        {
+          "code": null,
+          "name": "Bongará"
+        },
+        {
+          "code": null,
+          "name": "Condorcanqui"
+        },
+        {
+          "code": null,
+          "name": "Luya"
+        },
+        {
+          "code": null,
+          "name": "Rodríguez de Mendoza"
+        },
+        {
+          "code": null,
+          "name": "Utcubamba"
+        },
+        {
+          "code": null,
+          "name": "Huaraz"
+        },
+        {
+          "code": null,
+          "name": "Aija"
+        },
+        {
+          "code": null,
+          "name": "Antonio Raymondi"
+        },
+        {
+          "code": null,
+          "name": "Asunción"
+        },
+        {
+          "code": null,
+          "name": "Bolognesi"
+        },
+        {
+          "code": null,
+          "name": "Carhuaz"
+        },
+        {
+          "code": null,
+          "name": "Carlos Fermín Fitzcarrald"
+        },
+        {
+          "code": null,
+          "name": "Casma"
+        },
+        {
+          "code": null,
+          "name": "Corongo"
+        },
+        {
+          "code": null,
+          "name": "Huari"
+        },
+        {
+          "code": null,
+          "name": "Huarmey"
+        },
+        {
+          "code": null,
+          "name": "Huaylas"
+        },
+        {
+          "code": null,
+          "name": "Mariscal Luzuriaga"
+        },
+        {
+          "code": null,
+          "name": "Ocros"
+        },
+        {
+          "code": null,
+          "name": "Pallasca"
+        },
+        {
+          "code": null,
+          "name": "Pomabamba"
+        },
+        {
+          "code": null,
+          "name": "Recuay"
+        },
+        {
+          "code": null,
+          "name": "Santa"
+        },
+        {
+          "code": null,
+          "name": "Sihuas"
+        },
+        {
+          "code": null,
+          "name": "Yungay"
+        },
+        {
+          "code": null,
+          "name": "Abancay"
+        },
+        {
+          "code": null,
+          "name": "Andahuaylas"
+        },
+        {
+          "code": null,
+          "name": "Antabamba"
+        },
+        {
+          "code": null,
+          "name": "Aymaraes"
+        },
+        {
+          "code": null,
+          "name": "Cotabambas"
+        },
+        {
+          "code": null,
+          "name": "Chincheros"
+        },
+        {
+          "code": null,
+          "name": "Grau"
+        },
+        {
+          "code": null,
+          "name": "Arequipa"
+        },
+        {
+          "code": null,
+          "name": "Camaná"
+        },
+        {
+          "code": null,
+          "name": "Caravelí"
+        },
+        {
+          "code": null,
+          "name": "Castilla"
+        },
+        {
+          "code": null,
+          "name": "Caylloma"
+        },
+        {
+          "code": null,
+          "name": "Condesuyos"
+        },
+        {
+          "code": null,
+          "name": "Islay"
+        },
+        {
+          "code": null,
+          "name": "La Unión"
+        },
+        {
+          "code": null,
+          "name": "Huamanga"
+        },
+        {
+          "code": null,
+          "name": "Cangallo"
+        },
+        {
+          "code": null,
+          "name": "Huanca Sancos"
+        },
+        {
+          "code": null,
+          "name": "Huanta"
+        },
+        {
+          "code": null,
+          "name": "La Mar"
+        },
+        {
+          "code": null,
+          "name": "Lucanas"
+        },
+        {
+          "code": null,
+          "name": "Parinacochas"
+        },
+        {
+          "code": null,
+          "name": "Páucar del Sara Sara"
+        },
+        {
+          "code": null,
+          "name": "Sucre"
+        },
+        {
+          "code": null,
+          "name": "Víctor Fajardo"
+        },
+        {
+          "code": null,
+          "name": "Vilcas Huamán"
+        },
+        {
+          "code": null,
+          "name": "Cajamarca"
+        },
+        {
+          "code": null,
+          "name": "Cajabamba"
+        },
+        {
+          "code": null,
+          "name": "Celendín"
+        },
+        {
+          "code": null,
+          "name": "Chota"
+        },
+        {
+          "code": null,
+          "name": "Contumazá"
+        },
+        {
+          "code": null,
+          "name": "Cutervo"
+        },
+        {
+          "code": null,
+          "name": "Hualgayoc"
+        },
+        {
+          "code": null,
+          "name": "Jaén"
+        },
+        {
+          "code": null,
+          "name": "San Ignacio"
+        },
+        {
+          "code": null,
+          "name": "San Marcos"
+        },
+        {
+          "code": null,
+          "name": "San Miguel"
+        },
+        {
+          "code": null,
+          "name": "San Pablo"
+        },
+        {
+          "code": null,
+          "name": "Santa Cruz"
+        },
+        {
+          "code": null,
+          "name": "Callao"
+        },
+        {
+          "code": null,
+          "name": "Cusco"
+        },
+        {
+          "code": null,
+          "name": "Acomayo"
+        },
+        {
+          "code": null,
+          "name": "Anta"
+        },
+        {
+          "code": null,
+          "name": "Calca"
+        },
+        {
+          "code": null,
+          "name": "Canas"
+        },
+        {
+          "code": null,
+          "name": "Canchis"
+        },
+        {
+          "code": null,
+          "name": "Chumbivilcas"
+        },
+        {
+          "code": null,
+          "name": "Espinar"
+        },
+        {
+          "code": null,
+          "name": "La Convención"
+        },
+        {
+          "code": null,
+          "name": "Paruro"
+        },
+        {
+          "code": null,
+          "name": "Paucartambo"
+        },
+        {
+          "code": null,
+          "name": "Quispicanchi"
+        },
+        {
+          "code": null,
+          "name": "Urubamba"
+        },
+        {
+          "code": null,
+          "name": "Huancavelica"
+        },
+        {
+          "code": null,
+          "name": "Acobamba"
+        },
+        {
+          "code": null,
+          "name": "Angaraes"
+        },
+        {
+          "code": null,
+          "name": "Castrovirreyna"
+        },
+        {
+          "code": null,
+          "name": "Churcampa"
+        },
+        {
+          "code": null,
+          "name": "Huaytará"
+        },
+        {
+          "code": null,
+          "name": "Tayacaja"
+        },
+        {
+          "code": null,
+          "name": "Huánuco"
+        },
+        {
+          "code": null,
+          "name": "Ambo"
+        },
+        {
+          "code": null,
+          "name": "Dos de Mayo"
+        },
+        {
+          "code": null,
+          "name": "Huacaybamba"
+        },
+        {
+          "code": null,
+          "name": "Huamalíes"
+        },
+        {
+          "code": null,
+          "name": "Leoncio Prado"
+        },
+        {
+          "code": null,
+          "name": "Marañón"
+        },
+        {
+          "code": null,
+          "name": "Pachitea"
+        },
+        {
+          "code": null,
+          "name": "Puerto Inca"
+        },
+        {
+          "code": null,
+          "name": "Lauricocha"
+        },
+        {
+          "code": null,
+          "name": "Yarowilca"
+        },
+        {
+          "code": null,
+          "name": "Ica"
+        },
+        {
+          "code": null,
+          "name": "Chincha"
+        },
+        {
+          "code": null,
+          "name": "Nazca"
+        },
+        {
+          "code": null,
+          "name": "Palpa"
+        },
+        {
+          "code": null,
+          "name": "Pisco"
+        },
+        {
+          "code": null,
+          "name": "Huancayo"
+        },
+        {
+          "code": null,
+          "name": "Concepción"
+        },
+        {
+          "code": null,
+          "name": "Chanchamayo"
+        },
+        {
+          "code": null,
+          "name": "Jauja"
+        },
+        {
+          "code": null,
+          "name": "Junín"
+        },
+        {
+          "code": null,
+          "name": "Satipo"
+        },
+        {
+          "code": null,
+          "name": "Tarma"
+        },
+        {
+          "code": null,
+          "name": "Yauli"
+        },
+        {
+          "code": null,
+          "name": "Chupaca"
+        },
+        {
+          "code": null,
+          "name": "Trujillo"
+        },
+        {
+          "code": null,
+          "name": "Ascope"
+        },
+        {
+          "code": null,
+          "name": "Bolívar"
+        },
+        {
+          "code": null,
+          "name": "Chepén"
+        },
+        {
+          "code": null,
+          "name": "Julcán"
+        },
+        {
+          "code": null,
+          "name": "Otuzco"
+        },
+        {
+          "code": null,
+          "name": "Pacasmayo"
+        },
+        {
+          "code": null,
+          "name": "Pataz"
+        },
+        {
+          "code": null,
+          "name": "Sánchez Carrión"
+        },
+        {
+          "code": null,
+          "name": "Santiago de Chuco"
+        },
+        {
+          "code": null,
+          "name": "Gran Chimú"
+        },
+        {
+          "code": null,
+          "name": "Virú"
+        },
+        {
+          "code": null,
+          "name": "Chiclayo"
+        },
+        {
+          "code": null,
+          "name": "Ferreñafe"
+        },
+        {
+          "code": null,
+          "name": "Lambayeque"
+        },
+        {
+          "code": null,
+          "name": "Lima"
+        },
+        {
+          "code": null,
+          "name": "Huaura"
+        },
+        {
+          "code": null,
+          "name": "Barranca"
+        },
+        {
+          "code": null,
+          "name": "Cajatambo"
+        },
+        {
+          "code": null,
+          "name": "Canta"
+        },
+        {
+          "code": null,
+          "name": "Cañete"
+        },
+        {
+          "code": null,
+          "name": "Huaral"
+        },
+        {
+          "code": null,
+          "name": "Huarochirí"
+        },
+        {
+          "code": null,
+          "name": "Oyón"
+        },
+        {
+          "code": null,
+          "name": "Yauyos"
+        },
+        {
+          "code": null,
+          "name": "Maynas"
+        },
+        {
+          "code": null,
+          "name": "Alto Amazonas"
+        },
+        {
+          "code": null,
+          "name": "Loreto"
+        },
+        {
+          "code": null,
+          "name": "Mariscal Ramón Castilla"
+        },
+        {
+          "code": null,
+          "name": "Putumayo"
+        },
+        {
+          "code": null,
+          "name": "Requena"
+        },
+        {
+          "code": null,
+          "name": "Ucayali"
+        },
+        {
+          "code": null,
+          "name": "Datem del Marañón"
+        },
+        {
+          "code": null,
+          "name": "Tambopata"
+        },
+        {
+          "code": null,
+          "name": "Manú"
+        },
+        {
+          "code": null,
+          "name": "Tahuamanu"
+        },
+        {
+          "code": null,
+          "name": "Mariscal Nieto"
+        },
+        {
+          "code": null,
+          "name": "General Sánchez Cerro"
+        },
+        {
+          "code": null,
+          "name": "Ilo"
+        },
+        {
+          "code": null,
+          "name": "Pasco"
+        },
+        {
+          "code": null,
+          "name": "Daniel Alcídes Carrión"
+        },
+        {
+          "code": null,
+          "name": "Oxapampa"
+        },
+        {
+          "code": null,
+          "name": "Piura"
+        },
+        {
+          "code": null,
+          "name": "Ayabaca"
+        },
+        {
+          "code": null,
+          "name": "Huancabamba"
+        },
+        {
+          "code": null,
+          "name": "Morropón"
+        },
+        {
+          "code": null,
+          "name": "Paita"
+        },
+        {
+          "code": null,
+          "name": "Sullana"
+        },
+        {
+          "code": null,
+          "name": "Talara"
+        },
+        {
+          "code": null,
+          "name": "Sechura"
+        },
+        {
+          "code": null,
+          "name": "Puno"
+        },
+        {
+          "code": null,
+          "name": "Azángaro"
+        },
+        {
+          "code": null,
+          "name": "Carabaya"
+        },
+        {
+          "code": null,
+          "name": "Chucuito"
+        },
+        {
+          "code": null,
+          "name": "El Collao"
+        },
+        {
+          "code": null,
+          "name": "Huancané"
+        },
+        {
+          "code": null,
+          "name": "Lampa"
+        },
+        {
+          "code": null,
+          "name": "Melgar"
+        },
+        {
+          "code": null,
+          "name": "Moho"
+        },
+        {
+          "code": null,
+          "name": "San Antonio de Putina"
+        },
+        {
+          "code": null,
+          "name": "San Román"
+        },
+        {
+          "code": null,
+          "name": "Sandia"
+        },
+        {
+          "code": null,
+          "name": "Yunguyo"
+        },
+        {
+          "code": null,
+          "name": "Moyobamba"
+        },
+        {
+          "code": null,
+          "name": "Bellavista"
+        },
+        {
+          "code": null,
+          "name": "El Dorado"
+        },
+        {
+          "code": null,
+          "name": "Huallaga"
+        },
+        {
+          "code": null,
+          "name": "Lamas"
+        },
+        {
+          "code": null,
+          "name": "Mariscal Cáceres"
+        },
+        {
+          "code": null,
+          "name": "Picota"
+        },
+        {
+          "code": null,
+          "name": "Rioja"
+        },
+        {
+          "code": null,
+          "name": "San Martín"
+        },
+        {
+          "code": null,
+          "name": "Tocache"
+        },
+        {
+          "code": null,
+          "name": "Tacna"
+        },
+        {
+          "code": null,
+          "name": "Candarave"
+        },
+        {
+          "code": null,
+          "name": "Jorge Basadre"
+        },
+        {
+          "code": null,
+          "name": "Tarata"
+        },
+        {
+          "code": null,
+          "name": "Tumbes"
+        },
+        {
+          "code": null,
+          "name": "Contralmirante Villar"
+        },
+        {
+          "code": null,
+          "name": "Zarumilla"
+        },
+        {
+          "code": null,
+          "name": "Coronel Portillo"
+        },
+        {
+          "code": null,
+          "name": "Atalaya"
+        },
+        {
+          "code": null,
+          "name": "Padre Abad"
+        },
+        {
+          "code": null,
+          "name": "Purús"
+        }
+      ]
+    },
+    {
+      "code": "PF",
+      "name": "French Polynesia",
+      "phone": "689",
+      "currency": "XPF",
+      "states": []
+    },
+    {
+      "code": "PG",
+      "name": "Papua New Guinea",
+      "phone": "675",
+      "currency": "PGK",
+      "states": []
+    },
+    {
+      "code": "PH",
+      "name": "Philippines",
+      "phone": "63",
+      "currency": "PHP",
+      "states": [
+        {
+          "code": null,
+          "name": "Abra"
+        },
+        {
+          "code": null,
+          "name": "Agusan del Norte"
+        },
+        {
+          "code": null,
+          "name": "Agusan del Sur"
+        },
+        {
+          "code": null,
+          "name": "Aklan"
+        },
+        {
+          "code": null,
+          "name": "Albay"
+        },
+        {
+          "code": null,
+          "name": "Antique"
+        },
+        {
+          "code": null,
+          "name": "Apayao"
+        },
+        {
+          "code": null,
+          "name": "Aurora"
+        },
+        {
+          "code": null,
+          "name": "Basilan"
+        },
+        {
+          "code": null,
+          "name": "Bataan"
+        },
+        {
+          "code": null,
+          "name": "Batanes"
+        },
+        {
+          "code": null,
+          "name": "Batangas"
+        },
+        {
+          "code": null,
+          "name": "Benguet"
+        },
+        {
+          "code": null,
+          "name": "Biliran"
+        },
+        {
+          "code": null,
+          "name": "Bohol"
+        },
+        {
+          "code": null,
+          "name": "Bukidnon"
+        },
+        {
+          "code": null,
+          "name": "Bulacan"
+        },
+        {
+          "code": null,
+          "name": "Cagayan"
+        },
+        {
+          "code": null,
+          "name": "Camarines Norte"
+        },
+        {
+          "code": null,
+          "name": "Camarines Sur"
+        },
+        {
+          "code": null,
+          "name": "Camiguin"
+        },
+        {
+          "code": null,
+          "name": "Capiz"
+        },
+        {
+          "code": null,
+          "name": "Catanduanes"
+        },
+        {
+          "code": null,
+          "name": "Cavite"
+        },
+        {
+          "code": null,
+          "name": "Cebu"
+        },
+        {
+          "code": null,
+          "name": "Compostela Valley"
+        },
+        {
+          "code": null,
+          "name": "Cotabato"
+        },
+        {
+          "code": null,
+          "name": "Davao del Norte"
+        },
+        {
+          "code": null,
+          "name": "Davao del Sur"
+        },
+        {
+          "code": null,
+          "name": "Davao Occidental"
+        },
+        {
+          "code": null,
+          "name": "Davao Oriental"
+        },
+        {
+          "code": null,
+          "name": "Dinagat Islands"
+        },
+        {
+          "code": null,
+          "name": "Eastern Samar"
+        },
+        {
+          "code": null,
+          "name": "Guimaras"
+        },
+        {
+          "code": null,
+          "name": "Ifugao"
+        },
+        {
+          "code": null,
+          "name": "Ilocos Norte"
+        },
+        {
+          "code": null,
+          "name": "Ilocos Sur"
+        },
+        {
+          "code": null,
+          "name": "Iloilo"
+        },
+        {
+          "code": null,
+          "name": "Isabela"
+        },
+        {
+          "code": null,
+          "name": "Kalinga"
+        },
+        {
+          "code": null,
+          "name": "La Union"
+        },
+        {
+          "code": null,
+          "name": "Laguna"
+        },
+        {
+          "code": null,
+          "name": "Lanao del Norte"
+        },
+        {
+          "code": null,
+          "name": "Lanao del Sur"
+        },
+        {
+          "code": null,
+          "name": "Leyte"
+        },
+        {
+          "code": null,
+          "name": "Maguindanao"
+        },
+        {
+          "code": null,
+          "name": "Marinduque"
+        },
+        {
+          "code": null,
+          "name": "Masbate"
+        },
+        {
+          "code": null,
+          "name": "Misamis Occidental"
+        },
+        {
+          "code": null,
+          "name": "Misamis Oriental"
+        },
+        {
+          "code": null,
+          "name": "Mountain Province"
+        },
+        {
+          "code": null,
+          "name": "Negros Occidental"
+        },
+        {
+          "code": null,
+          "name": "Negros Oriental"
+        },
+        {
+          "code": null,
+          "name": "Northern Samar"
+        },
+        {
+          "code": null,
+          "name": "Nueva Ecija"
+        },
+        {
+          "code": null,
+          "name": "Nueva Vizcaya"
+        },
+        {
+          "code": null,
+          "name": "Occidental Mindoro"
+        },
+        {
+          "code": null,
+          "name": "Oriental Mindoro"
+        },
+        {
+          "code": null,
+          "name": "Palawan"
+        },
+        {
+          "code": null,
+          "name": "Pampanga"
+        },
+        {
+          "code": null,
+          "name": "Pangasinan"
+        },
+        {
+          "code": null,
+          "name": "Quezon"
+        },
+        {
+          "code": null,
+          "name": "Quirino"
+        },
+        {
+          "code": null,
+          "name": "Rizal"
+        },
+        {
+          "code": null,
+          "name": "Romblon"
+        },
+        {
+          "code": null,
+          "name": "Samar"
+        },
+        {
+          "code": null,
+          "name": "Sarangani"
+        },
+        {
+          "code": null,
+          "name": "Siquijor"
+        },
+        {
+          "code": null,
+          "name": "Sorsogon"
+        },
+        {
+          "code": null,
+          "name": "South Cotabato"
+        },
+        {
+          "code": null,
+          "name": "Southern Leyte"
+        },
+        {
+          "code": null,
+          "name": "Sultan Kudarat"
+        },
+        {
+          "code": null,
+          "name": "Sulu"
+        },
+        {
+          "code": null,
+          "name": "Surigao del Norte"
+        },
+        {
+          "code": null,
+          "name": "Surigao del Sur"
+        },
+        {
+          "code": null,
+          "name": "Tarlac"
+        },
+        {
+          "code": null,
+          "name": "Tawi-Tawi"
+        },
+        {
+          "code": null,
+          "name": "Zambales"
+        },
+        {
+          "code": null,
+          "name": "Zamboanga del Norte"
+        },
+        {
+          "code": null,
+          "name": "Zamboanga del Sur"
+        },
+        {
+          "code": null,
+          "name": "Zamboanga Sibugay"
+        },
+        {
+          "code": null,
+          "name": "Metro Manila"
+        }
+      ]
+    },
+    {
+      "code": "PK",
+      "name": "Pakistan",
+      "phone": "92",
+      "currency": "PKR",
+      "states": [
+        {
+          "code": null,
+          "name": "Azad Kashmir"
+        },
+        {
+          "code": null,
+          "name": "Bahawalpur"
+        },
+        {
+          "code": null,
+          "name": "Bannu"
+        },
+        {
+          "code": null,
+          "name": "Dera Ghazi Khan"
+        },
+        {
+          "code": null,
+          "name": "Dera Ismail Khan"
+        },
+        {
+          "code": null,
+          "name": "Faisalabad"
+        },
+        {
+          "code": null,
+          "name": "F.A.T.A."
+        },
+        {
+          "code": null,
+          "name": "Gujranwala"
+        },
+        {
+          "code": null,
+          "name": "Hazara"
+        },
+        {
+          "code": null,
+          "name": "Hyderabad"
+        },
+        {
+          "code": null,
+          "name": "Islamabad"
+        },
+        {
+          "code": null,
+          "name": "Kalat"
+        },
+        {
+          "code": null,
+          "name": "Karachi"
+        },
+        {
+          "code": null,
+          "name": "Kohat"
+        },
+        {
+          "code": null,
+          "name": "Lahore"
+        },
+        {
+          "code": null,
+          "name": "Larkana"
+        },
+        {
+          "code": null,
+          "name": "Makran"
+        },
+        {
+          "code": null,
+          "name": "Malakand"
+        },
+        {
+          "code": null,
+          "name": "Mardan"
+        },
+        {
+          "code": null,
+          "name": "Mirpur Khas"
+        },
+        {
+          "code": null,
+          "name": "Multan"
+        },
+        {
+          "code": null,
+          "name": "Nasirabad"
+        },
+        {
+          "code": null,
+          "name": "Northern Areas"
+        },
+        {
+          "code": null,
+          "name": "Peshawar"
+        },
+        {
+          "code": null,
+          "name": "Quetta"
+        },
+        {
+          "code": null,
+          "name": "Rawalpindi"
+        },
+        {
+          "code": null,
+          "name": "Sargodha"
+        },
+        {
+          "code": null,
+          "name": "Sahiwal"
+        },
+        {
+          "code": null,
+          "name": "Sibi"
+        },
+        {
+          "code": null,
+          "name": "Sukkur"
+        },
+        {
+          "code": null,
+          "name": "Zhob"
+        }
+      ]
+    },
+    {
+      "code": "PL",
+      "name": "Poland",
+      "phone": "48",
+      "currency": "PLN",
+      "states": []
+    },
+    {
+      "code": "PM",
+      "name": "Saint Pierre and Miquelon",
+      "phone": "508",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "PN",
+      "name": "Pitcairn Islands",
+      "phone": "64",
+      "currency": "NZD",
+      "states": []
+    },
+    {
+      "code": "PR",
+      "name": "Puerto Rico",
+      "phone": "1787,1939",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "PS",
+      "name": "Palestine",
+      "phone": "970",
+      "currency": "ILS",
+      "states": []
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "phone": "351",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "PW",
+      "name": "Palau",
+      "phone": "680",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "PY",
+      "name": "Paraguay",
+      "phone": "595",
+      "currency": "PYG",
+      "states": []
+    },
+    {
+      "code": "QA",
+      "name": "Qatar",
+      "phone": "974",
+      "currency": "QAR",
+      "states": []
+    },
+    {
+      "code": "RE",
+      "name": "Réunion",
+      "phone": "262",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "RO",
+      "name": "Romania",
+      "phone": "40",
+      "currency": "RON",
+      "states": []
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "phone": "381",
+      "currency": "RSD",
+      "states": []
+    },
+    {
+      "code": "RU",
+      "name": "Russia",
+      "phone": "7",
+      "currency": "RUB",
+      "states": []
+    },
+    {
+      "code": "RW",
+      "name": "Rwanda",
+      "phone": "250",
+      "currency": "RWF",
+      "states": []
+    },
+    {
+      "code": "SA",
+      "name": "Saudi Arabia",
+      "phone": "966",
+      "currency": "SAR",
+      "states": []
+    },
+    {
+      "code": "SB",
+      "name": "Solomon Islands",
+      "phone": "677",
+      "currency": "SBD",
+      "states": []
+    },
+    {
+      "code": "SC",
+      "name": "Seychelles",
+      "phone": "248",
+      "currency": "SCR",
+      "states": []
+    },
+    {
+      "code": "SD",
+      "name": "Sudan",
+      "phone": "249",
+      "currency": "SDG",
+      "states": []
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "phone": "46",
+      "currency": "SEK",
+      "states": []
+    },
+    {
+      "code": "SG",
+      "name": "Singapore",
+      "phone": "65",
+      "currency": "SGD",
+      "states": []
+    },
+    {
+      "code": "SH",
+      "name": "Saint Helena",
+      "phone": "290",
+      "currency": "SHP",
+      "states": []
+    },
+    {
+      "code": "SI",
+      "name": "Slovenia",
+      "phone": "386",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "SJ",
+      "name": "Svalbard and Jan Mayen",
+      "phone": "4779",
+      "currency": "NOK",
+      "states": []
+    },
+    {
+      "code": "SK",
+      "name": "Slovakia",
+      "phone": "421",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "SL",
+      "name": "Sierra Leone",
+      "phone": "232",
+      "currency": "SLL",
+      "states": []
+    },
+    {
+      "code": "SM",
+      "name": "San Marino",
+      "phone": "378",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "SN",
+      "name": "Senegal",
+      "phone": "221",
+      "currency": "XOF",
+      "states": []
+    },
+    {
+      "code": "SO",
+      "name": "Somalia",
+      "phone": "252",
+      "currency": "SOS",
+      "states": []
+    },
+    {
+      "code": "SR",
+      "name": "Suriname",
+      "phone": "597",
+      "currency": "SRD",
+      "states": []
+    },
+    {
+      "code": "SS",
+      "name": "South Sudan",
+      "phone": "211",
+      "currency": "SSP",
+      "states": []
+    },
+    {
+      "code": "ST",
+      "name": "São Tomé and Príncipe",
+      "phone": "239",
+      "currency": "STN",
+      "states": []
+    },
+    {
+      "code": "SV",
+      "name": "El Salvador",
+      "phone": "503",
+      "currency": "SVC,USD",
+      "states": []
+    },
+    {
+      "code": "SX",
+      "name": "Sint Maarten",
+      "phone": "1721",
+      "currency": "ANG",
+      "states": []
+    },
+    {
+      "code": "SY",
+      "name": "Syria",
+      "phone": "963",
+      "currency": "SYP",
+      "states": []
+    },
+    {
+      "code": "SZ",
+      "name": "Swaziland",
+      "phone": "268",
+      "currency": "SZL",
+      "states": []
+    },
+    {
+      "code": "TC",
+      "name": "Turks and Caicos Islands",
+      "phone": "1649",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "TD",
+      "name": "Chad",
+      "phone": "235",
+      "currency": "XAF",
+      "states": []
+    },
+    {
+      "code": "TF",
+      "name": "French Southern Territories",
+      "phone": "262",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "TG",
+      "name": "Togo",
+      "phone": "228",
+      "currency": "XOF",
+      "states": []
+    },
+    {
+      "code": "TH",
+      "name": "Thailand",
+      "phone": "66",
+      "currency": "THB",
+      "states": []
+    },
+    {
+      "code": "TJ",
+      "name": "Tajikistan",
+      "phone": "992",
+      "currency": "TJS",
+      "states": []
+    },
+    {
+      "code": "TK",
+      "name": "Tokelau",
+      "phone": "690",
+      "currency": "NZD",
+      "states": []
+    },
+    {
+      "code": "TL",
+      "name": "East Timor",
+      "phone": "670",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "TM",
+      "name": "Turkmenistan",
+      "phone": "993",
+      "currency": "TMT",
+      "states": []
+    },
+    {
+      "code": "TN",
+      "name": "Tunisia",
+      "phone": "216",
+      "currency": "TND",
+      "states": []
+    },
+    {
+      "code": "TO",
+      "name": "Tonga",
+      "phone": "676",
+      "currency": "TOP",
+      "states": []
+    },
+    {
+      "code": "TR",
+      "name": "Turkey",
+      "phone": "90",
+      "currency": "TRY",
+      "states": [
+        {
+          "code": null,
+          "name": "Adana"
+        },
+        {
+          "code": null,
+          "name": "Adıyaman"
+        },
+        {
+          "code": null,
+          "name": "Afyonkarahisar"
+        },
+        {
+          "code": null,
+          "name": "Ağrı"
+        },
+        {
+          "code": null,
+          "name": "Amasya"
+        },
+        {
+          "code": null,
+          "name": "Ankara"
+        },
+        {
+          "code": null,
+          "name": "Antalya"
+        },
+        {
+          "code": null,
+          "name": "Artvin"
+        },
+        {
+          "code": null,
+          "name": "Aydın"
+        },
+        {
+          "code": null,
+          "name": "Balıkesir"
+        },
+        {
+          "code": null,
+          "name": "Bilecik"
+        },
+        {
+          "code": null,
+          "name": "Bingöl"
+        },
+        {
+          "code": null,
+          "name": "Bitlis"
+        },
+        {
+          "code": null,
+          "name": "Bolu"
+        },
+        {
+          "code": null,
+          "name": "Burdur"
+        },
+        {
+          "code": null,
+          "name": "Bursa"
+        },
+        {
+          "code": null,
+          "name": "Çanakkale"
+        },
+        {
+          "code": null,
+          "name": "Çankırı"
+        },
+        {
+          "code": null,
+          "name": "Çorum"
+        },
+        {
+          "code": null,
+          "name": "Denizli"
+        },
+        {
+          "code": null,
+          "name": "Diyarbakır"
+        },
+        {
+          "code": null,
+          "name": "Edirne"
+        },
+        {
+          "code": null,
+          "name": "Elazığ"
+        },
+        {
+          "code": null,
+          "name": "Erzincan"
+        },
+        {
+          "code": null,
+          "name": "Erzurum"
+        },
+        {
+          "code": null,
+          "name": "Eskişehir"
+        },
+        {
+          "code": null,
+          "name": "Gaziantep"
+        },
+        {
+          "code": null,
+          "name": "Giresun"
+        },
+        {
+          "code": null,
+          "name": "Gümüşhane"
+        },
+        {
+          "code": null,
+          "name": "Hakkâri"
+        },
+        {
+          "code": null,
+          "name": "Hatay"
+        },
+        {
+          "code": null,
+          "name": "Isparta"
+        },
+        {
+          "code": null,
+          "name": "Mersin"
+        },
+        {
+          "code": null,
+          "name": "Istanbul"
+        },
+        {
+          "code": null,
+          "name": "İzmir"
+        },
+        {
+          "code": null,
+          "name": "Kars"
+        },
+        {
+          "code": null,
+          "name": "Kastamonu"
+        },
+        {
+          "code": null,
+          "name": "Kayseri"
+        },
+        {
+          "code": null,
+          "name": "Kırklareli"
+        },
+        {
+          "code": null,
+          "name": "Kırşehir"
+        },
+        {
+          "code": null,
+          "name": "Kocaeli"
+        },
+        {
+          "code": null,
+          "name": "Konya"
+        },
+        {
+          "code": null,
+          "name": "Kütahya"
+        },
+        {
+          "code": null,
+          "name": "Malatya"
+        },
+        {
+          "code": null,
+          "name": "Manisa"
+        },
+        {
+          "code": null,
+          "name": "Kahramanmaraş"
+        },
+        {
+          "code": null,
+          "name": "Mardin"
+        },
+        {
+          "code": null,
+          "name": "Muğla"
+        },
+        {
+          "code": null,
+          "name": "Muş"
+        },
+        {
+          "code": null,
+          "name": "Nevşehir"
+        },
+        {
+          "code": null,
+          "name": "Niğde"
+        },
+        {
+          "code": null,
+          "name": "Ordu"
+        },
+        {
+          "code": null,
+          "name": "Rize"
+        },
+        {
+          "code": null,
+          "name": "Sakarya"
+        },
+        {
+          "code": null,
+          "name": "Samsun"
+        },
+        {
+          "code": null,
+          "name": "Siirt"
+        },
+        {
+          "code": null,
+          "name": "Sinop"
+        },
+        {
+          "code": null,
+          "name": "Sivas"
+        },
+        {
+          "code": null,
+          "name": "Tekirdağ"
+        },
+        {
+          "code": null,
+          "name": "Tokat"
+        },
+        {
+          "code": null,
+          "name": "Trabzon"
+        },
+        {
+          "code": null,
+          "name": "Tunceli"
+        },
+        {
+          "code": null,
+          "name": "Şanlıurfa"
+        },
+        {
+          "code": null,
+          "name": "Uşak"
+        },
+        {
+          "code": null,
+          "name": "Van"
+        },
+        {
+          "code": null,
+          "name": "Yozgat"
+        },
+        {
+          "code": null,
+          "name": "Zonguldak"
+        },
+        {
+          "code": null,
+          "name": "Aksaray"
+        },
+        {
+          "code": null,
+          "name": "Bayburt"
+        },
+        {
+          "code": null,
+          "name": "Karaman"
+        },
+        {
+          "code": null,
+          "name": "Kırıkkale"
+        },
+        {
+          "code": null,
+          "name": "Batman"
+        },
+        {
+          "code": null,
+          "name": "Şırnak"
+        },
+        {
+          "code": null,
+          "name": "Bartın"
+        },
+        {
+          "code": null,
+          "name": "Ardahan"
+        },
+        {
+          "code": null,
+          "name": "Iğdır"
+        },
+        {
+          "code": null,
+          "name": "Yalova"
+        },
+        {
+          "code": null,
+          "name": "Karabük"
+        },
+        {
+          "code": null,
+          "name": "Kilis"
+        },
+        {
+          "code": null,
+          "name": "Osmaniye"
+        },
+        {
+          "code": null,
+          "name": "Düzce"
+        }
+      ]
+    },
+    {
+      "code": "TT",
+      "name": "Trinidad and Tobago",
+      "phone": "1868",
+      "currency": "TTD",
+      "states": []
+    },
+    {
+      "code": "TV",
+      "name": "Tuvalu",
+      "phone": "688",
+      "currency": "AUD",
+      "states": []
+    },
+    {
+      "code": "TW",
+      "name": "Taiwan",
+      "phone": "886",
+      "currency": "TWD",
+      "states": []
+    },
+    {
+      "code": "TZ",
+      "name": "Tanzania",
+      "phone": "255",
+      "currency": "TZS",
+      "states": []
+    },
+    {
+      "code": "UA",
+      "name": "Ukraine",
+      "phone": "380",
+      "currency": "UAH",
+      "states": []
+    },
+    {
+      "code": "UG",
+      "name": "Uganda",
+      "phone": "256",
+      "currency": "UGX",
+      "states": []
+    },
+    {
+      "code": "UM",
+      "name": "U.S. Minor Outlying Islands",
+      "phone": "1",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "US",
+      "name": "United States",
+      "phone": "1",
+      "currency": "USD,USN,USS",
+      "states": [
+        {
+          "code": "AL",
+          "name": "Alabama"
+        },
+        {
+          "code": "AK",
+          "name": "Alaska"
+        },
+        {
+          "code": "AZ",
+          "name": "Arizona"
+        },
+        {
+          "code": "AR",
+          "name": "Arkansas"
+        },
+        {
+          "code": "CA",
+          "name": "California"
+        },
+        {
+          "code": "CO",
+          "name": "Colorado"
+        },
+        {
+          "code": "CT",
+          "name": "Connecticut"
+        },
+        {
+          "code": "DC",
+          "name": "District of Columbia"
+        },
+        {
+          "code": "DE",
+          "name": "Delaware"
+        },
+        {
+          "code": "FL",
+          "name": "Florida"
+        },
+        {
+          "code": "GA",
+          "name": "Georgia"
+        },
+        {
+          "code": "HI",
+          "name": "Hawaii"
+        },
+        {
+          "code": "ID",
+          "name": "Idaho"
+        },
+        {
+          "code": "IL",
+          "name": "Illinois"
+        },
+        {
+          "code": "IN",
+          "name": "Indiana"
+        },
+        {
+          "code": "IA",
+          "name": "Iowa"
+        },
+        {
+          "code": "KS",
+          "name": "Kansas"
+        },
+        {
+          "code": "KY",
+          "name": "Kentucky"
+        },
+        {
+          "code": "LA",
+          "name": "Louisiana"
+        },
+        {
+          "code": "ME",
+          "name": "Maine"
+        },
+        {
+          "code": "MD",
+          "name": "Maryland"
+        },
+        {
+          "code": "MA",
+          "name": "Massachusetts"
+        },
+        {
+          "code": "MI",
+          "name": "Michigan"
+        },
+        {
+          "code": "MN",
+          "name": "Minnesota"
+        },
+        {
+          "code": "MS",
+          "name": "Mississippi"
+        },
+        {
+          "code": "MO",
+          "name": "Missouri"
+        },
+        {
+          "code": "MT",
+          "name": "Montana"
+        },
+        {
+          "code": "NE",
+          "name": "Nebraska"
+        },
+        {
+          "code": "NV",
+          "name": "Nevada"
+        },
+        {
+          "code": "NH",
+          "name": "New Hampshire"
+        },
+        {
+          "code": "NJ",
+          "name": "New Jersey"
+        },
+        {
+          "code": "NM",
+          "name": "New Mexico"
+        },
+        {
+          "code": "NY",
+          "name": "New York"
+        },
+        {
+          "code": "NC",
+          "name": "North Carolina"
+        },
+        {
+          "code": "ND",
+          "name": "North Dakota"
+        },
+        {
+          "code": "OH",
+          "name": "Ohio"
+        },
+        {
+          "code": "OK",
+          "name": "Oklahoma"
+        },
+        {
+          "code": "OR",
+          "name": "Oregon"
+        },
+        {
+          "code": "PA",
+          "name": "Pennsylvania"
+        },
+        {
+          "code": "RI",
+          "name": "Rhode Island"
+        },
+        {
+          "code": "SC",
+          "name": "South Carolina"
+        },
+        {
+          "code": "SD",
+          "name": "South Dakota"
+        },
+        {
+          "code": "TN",
+          "name": "Tennessee"
+        },
+        {
+          "code": "TX",
+          "name": "Texas"
+        },
+        {
+          "code": "UT",
+          "name": "Utah"
+        },
+        {
+          "code": "VT",
+          "name": "Vermont"
+        },
+        {
+          "code": "VA",
+          "name": "Virginia"
+        },
+        {
+          "code": "WA",
+          "name": "Washington"
+        },
+        {
+          "code": "WV",
+          "name": "West Virginia"
+        },
+        {
+          "code": "WI",
+          "name": "Wisconsin"
+        },
+        {
+          "code": "WY",
+          "name": "Wyoming"
+        },
+        {
+          "code": "AS",
+          "name": "American Samoa"
+        },
+        {
+          "code": "GU",
+          "name": "Guam"
+        },
+        {
+          "code": "MP",
+          "name": "Northern Mariana Islands"
+        },
+        {
+          "code": "PR",
+          "name": "Puerto Rico"
+        },
+        {
+          "code": "UM",
+          "name": "United States Minor Outlying Islands"
+        },
+        {
+          "code": "VI",
+          "name": "Virgin Islands"
+        }
+      ]
+    },
+    {
+      "code": "UY",
+      "name": "Uruguay",
+      "phone": "598",
+      "currency": "UYI,UYU",
+      "states": []
+    },
+    {
+      "code": "UZ",
+      "name": "Uzbekistan",
+      "phone": "998",
+      "currency": "UZS",
+      "states": []
+    },
+    {
+      "code": "VA",
+      "name": "Vatican City",
+      "phone": "379",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "VC",
+      "name": "Saint Vincent and the Grenadines",
+      "phone": "1784",
+      "currency": "XCD",
+      "states": []
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "phone": "58",
+      "currency": "VES",
+      "states": []
+    },
+    {
+      "code": "VG",
+      "name": "British Virgin Islands",
+      "phone": "1284",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "VI",
+      "name": "U.S. Virgin Islands",
+      "phone": "1340",
+      "currency": "USD",
+      "states": []
+    },
+    {
+      "code": "VN",
+      "name": "Vietnam",
+      "phone": "84",
+      "currency": "VND",
+      "states": [
+        {
+          "code": null,
+          "name": "Hà Nội"
+        },
+        {
+          "code": null,
+          "name": "Hà Giang"
+        },
+        {
+          "code": null,
+          "name": "Cao Bằng"
+        },
+        {
+          "code": null,
+          "name": "Bắc Kạn"
+        },
+        {
+          "code": null,
+          "name": "Tuyên Quang"
+        },
+        {
+          "code": null,
+          "name": "Lào Cai"
+        },
+        {
+          "code": null,
+          "name": "Điện Biên"
+        },
+        {
+          "code": null,
+          "name": "Lai Châu"
+        },
+        {
+          "code": null,
+          "name": "Sơn La"
+        },
+        {
+          "code": null,
+          "name": "Yên Bái"
+        },
+        {
+          "code": null,
+          "name": "Hòa Bình"
+        },
+        {
+          "code": null,
+          "name": "Thái Nguyên"
+        },
+        {
+          "code": null,
+          "name": "Lạng Sơn"
+        },
+        {
+          "code": null,
+          "name": "Quảng Ninh"
+        },
+        {
+          "code": null,
+          "name": "Bắc Giang"
+        },
+        {
+          "code": null,
+          "name": "Phú Thọ"
+        },
+        {
+          "code": null,
+          "name": "Vĩnh Phúc"
+        },
+        {
+          "code": null,
+          "name": "Bắc Ninh"
+        },
+        {
+          "code": null,
+          "name": "Hải Dương"
+        },
+        {
+          "code": null,
+          "name": "Hải Phòng"
+        },
+        {
+          "code": null,
+          "name": "Hưng Yên"
+        },
+        {
+          "code": null,
+          "name": "Thái Bình"
+        },
+        {
+          "code": null,
+          "name": "Hà Nam"
+        },
+        {
+          "code": null,
+          "name": "Nam Định"
+        },
+        {
+          "code": null,
+          "name": "Ninh Bình"
+        },
+        {
+          "code": null,
+          "name": "Thanh Hóa"
+        },
+        {
+          "code": null,
+          "name": "Nghệ An"
+        },
+        {
+          "code": null,
+          "name": "Hà Tĩnh"
+        },
+        {
+          "code": null,
+          "name": "Quảng Bình"
+        },
+        {
+          "code": null,
+          "name": "Quảng Trị"
+        },
+        {
+          "code": null,
+          "name": "Thừa Thiên–Huế"
+        },
+        {
+          "code": null,
+          "name": "Đà Nẵng"
+        },
+        {
+          "code": null,
+          "name": "Quảng Nam"
+        },
+        {
+          "code": null,
+          "name": "Quảng Ngãi"
+        },
+        {
+          "code": null,
+          "name": "Bình Định"
+        },
+        {
+          "code": null,
+          "name": "Phú Yên"
+        },
+        {
+          "code": null,
+          "name": "Khánh Hòa"
+        },
+        {
+          "code": null,
+          "name": "Ninh Thuận"
+        },
+        {
+          "code": null,
+          "name": "Bình Thuận"
+        },
+        {
+          "code": null,
+          "name": "Kon Tum"
+        },
+        {
+          "code": null,
+          "name": "Gia Lai"
+        },
+        {
+          "code": null,
+          "name": "Đắk Lắk"
+        },
+        {
+          "code": null,
+          "name": "Đắk Nông"
+        },
+        {
+          "code": null,
+          "name": "Lâm Đồng"
+        },
+        {
+          "code": null,
+          "name": "Bình Phước"
+        },
+        {
+          "code": null,
+          "name": "Tây Ninh"
+        },
+        {
+          "code": null,
+          "name": "Bình Dương"
+        },
+        {
+          "code": null,
+          "name": "Đồng Nai"
+        },
+        {
+          "code": null,
+          "name": "Bà Rịa–Vũng Tàu"
+        },
+        {
+          "code": null,
+          "name": "Thành phố Hồ Chí Minh"
+        },
+        {
+          "code": null,
+          "name": "Long An"
+        },
+        {
+          "code": null,
+          "name": "Tiền Giang"
+        },
+        {
+          "code": null,
+          "name": "Bến Tre"
+        },
+        {
+          "code": null,
+          "name": "Trà Vinh"
+        },
+        {
+          "code": null,
+          "name": "Vĩnh Long"
+        },
+        {
+          "code": null,
+          "name": "Đồng Tháp"
+        },
+        {
+          "code": null,
+          "name": "An Giang"
+        },
+        {
+          "code": null,
+          "name": "Kiên Giang"
+        },
+        {
+          "code": null,
+          "name": "Cần Thơ"
+        },
+        {
+          "code": null,
+          "name": "Hậu Giang"
+        },
+        {
+          "code": null,
+          "name": "Sóc Trăng"
+        },
+        {
+          "code": null,
+          "name": "Bạc Liêu"
+        },
+        {
+          "code": null,
+          "name": "Cà Mau"
+        }
+      ]
+    },
+    {
+      "code": "VU",
+      "name": "Vanuatu",
+      "phone": "678",
+      "currency": "VUV",
+      "states": []
+    },
+    {
+      "code": "WF",
+      "name": "Wallis and Futuna",
+      "phone": "681",
+      "currency": "XPF",
+      "states": []
+    },
+    {
+      "code": "WS",
+      "name": "Samoa",
+      "phone": "685",
+      "currency": "WST",
+      "states": []
+    },
+    {
+      "code": "XK",
+      "name": "Kosovo",
+      "phone": "377,381,383,386",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "YE",
+      "name": "Yemen",
+      "phone": "967",
+      "currency": "YER",
+      "states": []
+    },
+    {
+      "code": "YT",
+      "name": "Mayotte",
+      "phone": "262",
+      "currency": "EUR",
+      "states": []
+    },
+    {
+      "code": "ZA",
+      "name": "South Africa",
+      "phone": "27",
+      "currency": "ZAR",
+      "states": []
+    },
+    {
+      "code": "ZM",
+      "name": "Zambia",
+      "phone": "260",
+      "currency": "ZMW",
+      "states": []
+    },
+    {
+      "code": "ZW",
+      "name": "Zimbabwe",
+      "phone": "263",
+      "currency": "USD,ZAR,BWP,GBP,AUD,CNY,INR,JPY",
+      "states": []
+    }
+  ]
+}
