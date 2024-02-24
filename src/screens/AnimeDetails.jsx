@@ -3,25 +3,8 @@ import { View, Text, Image, ScrollView, StyleSheet, FlatList, TouchableOpacity }
 
 const AnimeDetails = ({ route, navigation }) => {
   const { details } = route.params;
+//   const favourites = useSelector(state => state.favourites)
 
-  
-const addToFavorites = async (anime) => {
-    // try {
-    //   const storedFavorites = await AsyncStorage.getItem('favorites');
-    //   const favorites = storedFavorites ? JSON.parse(storedFavorites) : [];
-    //   // Check if the anime is already in favorites
-    //   if (!favorites.some(favorite => favorite.id === anime.id)) {
-    //     const updatedFavorites = [...favorites, anime];
-    //     await AsyncStorage.setItem('favorites', JSON.stringify(updatedFavorites));
-    //     console.log('Anime added to favorites');
-    //   } else {
-    //     console.log('Anime is already in favorites');
-    //   }
-    // } catch (error) {
-    //   console.log('Error adding to favorites', error);
-    // }
-    console.log("adding to favourite")
-  };
 
   return (
     <ScrollView style={styles.container}>

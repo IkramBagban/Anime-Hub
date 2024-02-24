@@ -1,29 +1,33 @@
-import React from 'react';
 import { View, Text, FlatList, StyleSheet, Image, TouchableOpacity, Linking, Touchable } from 'react-native';
-import useFetch from '../hooks/useFetch';
-import AnimeCart from '../components/AnimeCart';
+import React from 'react'
 
-const HomeScreen = ({ navigation }) => {
-    const { data } = useFetch('/Page');
-
-
-
-    // console.log('favourites', favourites)
+const AnimeCart = ({ item ,navigation, index}) => {
     return (
-        <View style={styles.container}>
-            <FlatList
-                data={data?.data?.media}
-                renderItem={({ item, index }) => {
-                    console.log('index', index)
-                    return (
-                        <AnimeCart item={item} navigation={navigation} index={index} />
-                    )
-                }}
-                keyExtractor={(item, index) => `${item?.title.english}${index}`}
-            />
+        <View style={styles.itemContainer}>
+            <Image source={{ uri: item.coverImage.large }} style={styles.image} />
+            <View style={styles.textContainer}>
+                <Text style={styles.title}>
+                    {item.title.english || item.title.native}
+                </Text>
+                <Text style={styles.description}>
+                    {item.description.length < 200 ? item.description : `${item.description.slice(0, 120)}...`}
+                </Text>
+                <View style={{ flex: 1, flexDirection: 'row', gap: 3 }}>
+
+                    <TouchableOpacity style={styles.button} onPress={() => Linking.openURL(item.siteUrl)}>
+                        <Text style={styles.buttonText}>Visit Site</Text>
+                    </TouchableOpacity>
+                    <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('anime-details', { details: item, index: index })}>
+                        <Text style={styles.buttonText}>Details</Text>
+                    </TouchableOpacity>
+                </View>
+            </View>
         </View>
-    );
-};
+    )
+}
+
+export default AnimeCart
+
 
 const styles = StyleSheet.create({
     container: {
@@ -78,5 +82,3 @@ const styles = StyleSheet.create({
     },
 
 });
-
-export default HomeScreen;
