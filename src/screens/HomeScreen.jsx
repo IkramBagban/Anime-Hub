@@ -1,7 +1,7 @@
 import React from 'react';
 import { View, Text, FlatList, StyleSheet, Image, TouchableOpacity, Linking, Touchable } from 'react-native';
 import useFetch from '../hooks/useFetch';
-import AnimeCart from '../components/AnimeCart';
+import AnimeCard from '../components/AnimeCard';
 
 const HomeScreen = ({ navigation }) => {
     const { data } = useFetch('/Page');
@@ -16,7 +16,7 @@ const HomeScreen = ({ navigation }) => {
                 renderItem={({ item, index }) => {
                     console.log('index', index)
                     return (
-                        <AnimeCart item={item} navigation={navigation} index={index} />
+                        <AnimeCard item={item} navigation={navigation} index={index} />
                     )
                 }}
                 keyExtractor={(item, index) => `${item?.title.english}${index}`}

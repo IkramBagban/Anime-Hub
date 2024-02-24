@@ -1,7 +1,7 @@
 import { View, Text, FlatList, StyleSheet, Image, TouchableOpacity, Linking, Touchable } from 'react-native';
 import React from 'react'
 
-const AnimeCart = ({ item ,navigation, index}) => {
+const AnimeCard = ({ item ,navigation, index}) => {
     return (
         <View style={styles.itemContainer}>
             <Image source={{ uri: item.coverImage.large }} style={styles.image} />
@@ -26,7 +26,7 @@ const AnimeCart = ({ item ,navigation, index}) => {
     )
 }
 
-export default AnimeCart
+export default AnimeCard
 
 
 const styles = StyleSheet.create({
