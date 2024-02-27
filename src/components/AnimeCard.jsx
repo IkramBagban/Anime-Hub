@@ -1,7 +1,12 @@
 import { View, Text, FlatList, StyleSheet, Image, TouchableOpacity, Linking, Touchable } from 'react-native';
 import React from 'react'
 
-const AnimeCard = ({ item ,navigation, index}) => {
+const AnimeCard = ({ item, navigation, index }) => {
+
+    const viewDetailsHandler = (item, index) => {
+        const _id = item.bannerImage + index.toString()
+        navigation.navigate('anime-details', { details: item, _id })
+    }
     return (
         <View style={styles.itemContainer}>
             <Image source={{ uri: item.coverImage.large }} style={styles.image} />
@@ -17,7 +22,7 @@ const AnimeCard = ({ item ,navigation, index}) => {
                     <TouchableOpacity style={styles.button} onPress={() => Linking.openURL(item.siteUrl)}>
                         <Text style={styles.buttonText}>Visit Site</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.button} onPress={() => navigation.navigate('anime-details', { details: item, index: index })}>
+                    <TouchableOpacity style={styles.button} onPress={() => viewDetailsHandler(item, index)}>
                         <Text style={styles.buttonText}>Details</Text>
                     </TouchableOpacity>
                 </View>

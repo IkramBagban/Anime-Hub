@@ -2,25 +2,30 @@ import { ADD_TO_FAVOURITE } from "./favouriteAction";
 
 const initialState = {
   favourites: [],
-  //   favourites: 0,
 };
 
 const favouriteReducer = (state = initialState, action) => {
   switch (action.type) {
     case ADD_TO_FAVOURITE: {
-      if (state.favourites) {
-        let animeIdx = state.favourites.findIndex(
+      console.log("ADDING TO FAVOURITE...", state.favourites);
+      const { favourites } = state;
+      if (favourites.length > 0) {
+        let animeIdx = favourites.findIndex(
           (f) => f._id === action.payload._id
         );
         console.log("ANIMEIDX", animeIdx);
         if (animeIdx !== -1) {
-          state.favourites.slice(animeIdx, animeIdx + 1);
-          return [...state.favourites];
+          const updatedFavourites = favourites.filter(
+            (f) => f._id !== action.payload._id
+          );
+          return { ...state, favourites: updatedFavourites };
         }
+      } else {
+        return {
+          ...state,
+          favourites: [...favourites, action.payload],
+        };
       }
-      return {
-        favourites: [...state.favourites, action.payload],
-      };
     }
 
     default:

@@ -1,8 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-// const API = 'http://localhost:3000'
-const API = 'http://192.168.10.35:3000'
-
+const API = "http://192.168.10.35:3000";
 
 const useFetch = (endpoint) => {
   const [dataState, setDataState] = useState({
@@ -15,11 +13,7 @@ const useFetch = (endpoint) => {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        // const response = await axios.get('http://localhost:3000/data');
         const response = await axios.get(API + endpoint);
-        
-        // console.log("response")
-        // console.log(response)
         if (response.status === 200) {
           setDataState({
             data: response,

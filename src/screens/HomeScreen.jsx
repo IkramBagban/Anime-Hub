@@ -14,7 +14,7 @@ const HomeScreen = ({ navigation }) => {
             <FlatList
                 data={data?.data?.media}
                 renderItem={({ item, index }) => {
-                    console.log('index', index)
+                    // console.log('index', index)
                     return (
                         <AnimeCard item={item} navigation={navigation} index={index} />
                     )
