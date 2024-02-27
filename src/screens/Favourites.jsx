@@ -8,14 +8,13 @@ const Favourites = ({ navigation }) => {
 
     return (
         <View>
-            <Text>Favourites</Text>
             <FlatList
                 data={favourites}
-                renderItem={({ item, index }) => {
+                renderItem={({ item }) => {
                     item = item.anime
-                    return <AnimeCard details={item} navigation={navigation} index={index} />
+                    return <AnimeCard details={item} navigation={navigation}/>
                 }}
-                keyExtractor={(item, index) => `${item?.title?.english}${index}`}
+                keyExtractor={(item) => item._id}
             />
         </View>
     )

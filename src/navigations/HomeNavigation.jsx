@@ -16,7 +16,7 @@ const HomeNavigations = () => {
                 component={AnimeDetails}
                 options={({ route }) => ({
                     title: route.params.details.title.english,
-                    headerRight: () => <FavouriteHeartButton details={route.params.details} _id={route.params._id} />
+                    headerRight: () => <FavouriteHeartButton details={route.params.details} _id={route.params.details._id} />
                 })}
             />
             <Stack.Screen name="CharacterDetails" component={CharacterDetails} />

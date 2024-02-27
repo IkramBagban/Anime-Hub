@@ -1,11 +1,10 @@
 import { View, Text, StyleSheet, Image, TouchableOpacity, Linking } from 'react-native';
 import React from 'react'
 
-const AnimeCard = ({ details, navigation, index }) => {
+const AnimeCard = ({ details, navigation}) => {
 
-    const viewDetailsHandler = (details, index) => {
-        const _id = details.bannerImage + index.toString()
-        navigation.navigate('anime-details', { details: details, _id })
+    const viewDetailsHandler = (details) => {
+        navigation.navigate('anime-details', { details: details, _id : details._id })
     }
     return (
         <View style={styles.itemContainer}>
@@ -22,7 +21,7 @@ const AnimeCard = ({ details, navigation, index }) => {
                     <TouchableOpacity style={styles.button} onPress={() => Linking.openURL(details.siteUrl)}>
                         <Text style={styles.buttonText}>Visit Site</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.button} onPress={() => viewDetailsHandler(details, index)}>
+                    <TouchableOpacity style={styles.button} onPress={() => viewDetailsHandler(details)}>
                         <Text style={styles.buttonText}>Details</Text>
                     </TouchableOpacity>
                 </View>

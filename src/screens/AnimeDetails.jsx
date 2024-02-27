@@ -21,7 +21,7 @@ const AnimeDetails = ({ route, navigation }) => {
               <Text style={styles.characterName}>{item.name.full || item.name.native}</Text>
             </TouchableOpacity>
           )}
-          keyExtractor={(item,index) => item.name.full + index}
+          keyExtractor={(item) => item._id}
           horizontal={true}
         />
       </View>

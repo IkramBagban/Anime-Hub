@@ -4,18 +4,18 @@ import useFetch from '../hooks/useFetch';
 import AnimeCard from '../components/AnimeCard';
 
 const HomeScreen = ({ navigation }) => {
-    const { data } = useFetch('/Page');
+    const { data } = useFetch('/data');
 
     return (
         <View style={styles.container}>
             <FlatList
-                data={data?.data?.media}
-                renderItem={({ item, index }) => {
+                data={data?.data}
+                renderItem={({ item, }) => {
                     return (
-                        <AnimeCard details={item} navigation={navigation} index={index} />
+                        <AnimeCard details={item} navigation={navigation}/>
                     )
                 }}
-                keyExtractor={(item, index) => `${item?.title.english}${index}`}
+                keyExtractor={(item) => item._id}
             />
         </View>
     );
