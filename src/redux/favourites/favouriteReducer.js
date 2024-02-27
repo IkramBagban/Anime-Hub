@@ -7,7 +7,6 @@ const initialState = {
 const favouriteReducer = (state = initialState, action) => {
   switch (action.type) {
     case ADD_TO_FAVOURITE: {
-      console.log("ADDING TO FAVOURITE...", state.favourites);
       const { favourites } = state;
       if (favourites.length > 0) {
         let animeIdx = favourites.findIndex(

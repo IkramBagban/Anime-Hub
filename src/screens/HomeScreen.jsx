@@ -1,22 +1,18 @@
 import React from 'react';
-import { View, Text, FlatList, StyleSheet, Image, TouchableOpacity, Linking, Touchable } from 'react-native';
+import { View, FlatList, StyleSheet} from 'react-native';
 import useFetch from '../hooks/useFetch';
 import AnimeCard from '../components/AnimeCard';
 
 const HomeScreen = ({ navigation }) => {
     const { data } = useFetch('/Page');
 
-
-
-    // console.log('favourites', favourites)
     return (
         <View style={styles.container}>
             <FlatList
                 data={data?.data?.media}
                 renderItem={({ item, index }) => {
-                    // console.log('index', index)
                     return (
-                        <AnimeCard item={item} navigation={navigation} index={index} />
+                        <AnimeCard details={item} navigation={navigation} index={index} />
                     )
                 }}
                 keyExtractor={(item, index) => `${item?.title.english}${index}`}

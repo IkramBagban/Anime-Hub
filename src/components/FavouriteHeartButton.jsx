@@ -17,7 +17,7 @@ const FavouriteHeartButton = ({ details, _id }) => {
                 dispatch(addToFavourite({ anime: details, _id: _id }));
             }}
         >
-            <AntDesign name={isFavourite ? "heart" : "hearto"} size={24} color={isFavourite ? "green" : "black"} />
+            <AntDesign name={isFavourite ? "heart" : "hearto"} size={24} color={isFavourite ? "red" : "black"} />
         </TouchableOpacity>
     )
 }

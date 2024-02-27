@@ -1,28 +1,28 @@
-import { View, Text, FlatList, StyleSheet, Image, TouchableOpacity, Linking, Touchable } from 'react-native';
+import { View, Text, StyleSheet, Image, TouchableOpacity, Linking } from 'react-native';
 import React from 'react'
 
-const AnimeCard = ({ item, navigation, index }) => {
+const AnimeCard = ({ details, navigation, index }) => {
 
-    const viewDetailsHandler = (item, index) => {
-        const _id = item.bannerImage + index.toString()
-        navigation.navigate('anime-details', { details: item, _id })
+    const viewDetailsHandler = (details, index) => {
+        const _id = details.bannerImage + index.toString()
+        navigation.navigate('anime-details', { details: details, _id })
     }
     return (
         <View style={styles.itemContainer}>
-            <Image source={{ uri: item.coverImage.large }} style={styles.image} />
+            <Image source={{ uri: details.coverImage.large }} style={styles.image} />
             <View style={styles.textContainer}>
                 <Text style={styles.title}>
-                    {item.title.english || item.title.native}
+                    {details.title.english || details.title.native}
                 </Text>
                 <Text style={styles.description}>
-                    {item.description.length < 200 ? item.description : `${item.description.slice(0, 120)}...`}
+                    {details.description.length < 200 ? details.description : `${details.description.slice(0, 120)}...`}
                 </Text>
                 <View style={{ flex: 1, flexDirection: 'row', gap: 3 }}>
 
-                    <TouchableOpacity style={styles.button} onPress={() => Linking.openURL(item.siteUrl)}>
+                    <TouchableOpacity style={styles.button} onPress={() => Linking.openURL(details.siteUrl)}>
                         <Text style={styles.buttonText}>Visit Site</Text>
                     </TouchableOpacity>
-                    <TouchableOpacity style={styles.button} onPress={() => viewDetailsHandler(item, index)}>
+                    <TouchableOpacity style={styles.button} onPress={() => viewDetailsHandler(details, index)}>
                         <Text style={styles.buttonText}>Details</Text>
                     </TouchableOpacity>
                 </View>
