@@ -9,9 +9,6 @@ import { store } from "./src/redux/store";
 import HomeNavigations from "./src/navigations/HomeNavigation";
 const Stack = createNativeStackNavigator();
 
-const addToFavorites = async (anime) => {
-  console.log("adding to favourite");
-};
 
 const FavouritesNavigations = () => {
   return (

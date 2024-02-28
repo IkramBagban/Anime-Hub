@@ -1,6 +1,7 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-const API = "http://192.168.10.35:3000";
+// const API = "http://192.168.10.35:3000";
+const API = "https://ml-database.vercel.app";
 
 const useFetch = (endpoint) => {
   const [dataState, setDataState] = useState({
@@ -11,6 +12,7 @@ const useFetch = (endpoint) => {
   });
 
   useEffect(() => {
+    console.log("USING VERceL DATA")
     const fetchData = async () => {
       try {
         const response = await axios.get(API + endpoint);

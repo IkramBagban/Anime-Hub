@@ -3,7 +3,7 @@ import { View, Text, Image, ScrollView, StyleSheet, FlatList, TouchableOpacity }
 
 const AnimeDetails = ({ route, navigation }) => {
   const { details } = route.params;
-//   const favourites = useSelector(state => state.favourites)
+  //   const favourites = useSelector(state => state.favourites)
 
 
   return (
@@ -16,12 +16,12 @@ const AnimeDetails = ({ route, navigation }) => {
         <FlatList
           data={details.characters.nodes}
           renderItem={({ item }) => (
-            <TouchableOpacity onPress={()=> navigation.navigate('CharacterDetails', {character : item})} style={styles.characterItem}>
+            <TouchableOpacity onPress={() => navigation.navigate('CharacterDetails', { character: item })} style={styles.characterItem}>
               <Image source={{ uri: item.image.medium }} style={styles.characterImage} />
               <Text style={styles.characterName}>{item.name.full || item.name.native}</Text>
             </TouchableOpacity>
           )}
-          keyExtractor={(item) => item._id}
+          keyExtractor={()=> Math.random() + Date.now()}
           horizontal={true}
         />
       </View>

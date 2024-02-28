@@ -4,7 +4,7 @@ import useFetch from '../hooks/useFetch';
 import AnimeCard from '../components/AnimeCard';
 
 const HomeScreen = ({ navigation }) => {
-    const { data } = useFetch('/data');
+    const { data } = useFetch('/anime');
 
     return (
         <View style={styles.container}>
